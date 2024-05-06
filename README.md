@@ -63,6 +63,7 @@ The viewpoint includes a figure that illustrates the recommended workflow amd us
 ## Usage
 
 There are three types of checklist documents can be selected: A (only Section A), B (only Section B), and Full (both sections). The selection could faciliate a more flexible sharing of corresponding section(s). To share your checklist with others, please save the checklist as a read-only document. “File” >> “Print” >> Select “Microsoft print to PDF” in “Printer” >> Print >> Save it as a new PDF document.
+
 _For more examples, please refer to the [Instructions](https://example.com)_
 
 
