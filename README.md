@@ -79,8 +79,8 @@ _For more examples, please refer to the [Instructions](https://example.com)_
 
 | Sharing Date | Application Domain | Checklist Type | Document Link | Publication DOI | Publication Date | Author Name | Author Contact | Additional Info. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 05/05/2024 | Predicting influent BOD5 concentration in a WWTP | Full | File Link | Publication Link | 01/01/2022 | Junjie Zhu | [Email](junjiez@princeton.edu) | None |
-| 05/05/2024 | Predicting influent BOD5 concentration in a WWTP | Full | File Link | Publication Link | 01/01/2018 | Junjie Zhu | [Email](junjiez@princeton.edu) | None |
+| 05/05/2024 | Predicting influent BOD5 concentration in a WWTP | Full | File Link | Publication Link | 01/01/2022 | Junjie Zhu | [Email](mailto:junjiez@princeton.edu) | None |
+| 05/05/2024 | Predicting influent BOD5 concentration in a WWTP | Full | File Link | Publication Link | 01/01/2018 | Junjie Zhu | [Email](mailto:junjiez@princeton.edu) | None |
 
 
 
