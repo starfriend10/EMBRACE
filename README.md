@@ -61,7 +61,7 @@ The viewpoint includes a figure that illustrates the recommended workflow amd us
 
 ## Usage
 
-There are three checklist documents can be selected: A (only Section A), B (only Section B), and Full (both sections). The selection could faciliate a more flexible sharing of corresponding section(s). To share your checklist with others, please save the checklist as a read-only document. “File” >> “Print” >> Select “Microsoft print to PDF” in “Printer” >> Print >> Save it as a new PDF document.
+There are three types of checklist documents can be selected: A (only Section A), B (only Section B), and Full (both sections). The selection could faciliate a more flexible sharing of corresponding section(s). To share your checklist with others, please save the checklist as a read-only document. “File” >> “Print” >> Select “Microsoft print to PDF” in “Printer” >> Print >> Save it as a new PDF document.
 _For more examples, please refer to the [Instructions](https://example.com)_
 
 
@@ -69,15 +69,18 @@ _For more examples, please refer to the [Instructions](https://example.com)_
 ## Interactions and Contributing
 
 * If you find this checklist useful, please help to spread it to build an engaging community. If the checklist helps your ML research, we appreciate your credit to our work. Please cite the viewpoint [xxxxxx](xxxxxx).
-* If you'd like to share your checklist data for your research/publication, please send your checklist to Dr. Jun-Jie Zhu (junjiez@princeton.edu) via email. Please name your checklist document "Finisheddate BMP Checklist versionnumber for Yourpublication" (e.g., "20240430 BMP Checklist 1.0 for Zhu et al. (2023)") and use an email title "Sharing BMP Checklist from Yourname" (e.g., "Sharing BMP Checklist from Junjie Zhu"). We will do a data completeness check and publish it if it is generally completed. It is worth noting that sharing your checklist is completely volunteer and you agree to release your document/information once you send your document to us. Therefore, we and other fellow researchers appreciate your sharing.
-* While sharing your checklist may also benefit your research impact (i.e., more colleagues will know your research), it is completely self QA/QC for reported data. From the prespective of other fellow researchers, when you learn from a checklist, the information accuracy of the checklist is completely based on the reporting researcher. While we encourage researchers to share their checklists, we are also advocate a responsible data reporting.
-* If you find other items are needed and useful to add to the existing checklist, especially if they are common and representaitve, please feel free to send email to Dr. Jun-Jie Zhu (junjiez@princeton.edu). It is possible that your suggestion will be accepted or acknowledged for future development of the checklist.
+* If you'd like to share your checklist data for your research/publication, please send your checklist to Dr. Jun-Jie Zhu (junjiez@princeton.edu) via email. Please name your checklist document "Finisheddate BMP Checklist versionnumber for Yourpublication" (e.g., "20240430 BMP Checklist 1.0 for Zhu et al. (2023)") and use an email title "Sharing BMP Checklist from Yourname" (e.g., "Sharing BMP Checklist from Junjie Zhu"). To better classify shared checlist, please also provide your research application domain (e.g., Predicting river water quality parameter, TSS concentration) in your email. We will do a data completeness check and publish it if it is informative and within the scope. It is worth noting that sharing your checklist is completely volunteer and you agree to release your document/information once you send your document to us. Therefore, we and other fellow researchers appreciate your sharing. If you previously shared your checklist, but you'd like to update
+* While sharing your checklist may also benefit your research impact (i.e., more colleagues will know your research), it is completely self QA/QC for reported data. From the prespective of other fellow researchers, when you learn from a checklist, the information accuracy of the checklist is completely based upon the reporting researcher. While we encourage researchers to share their checklists, it is more important to provide a responsible data reporting.
+* If you find other items are needed or useful to be added to the existing checklist, especially if they are common and representaitve in ESE areas, please feel free to send email to Dr. Jun-Jie Zhu (junjiez@princeton.edu). It is likely that your suggestion will be accepted or acknowledged for future development of the checklist.
 
 
 
 ## Exhibition
 
-
+| Sharing Date | Application Domain | Checklist Type | Document Link | Publication DOI | Publication Date | Author Name | Author Contact |
+| --- | --- |
+| 05/05/2024 | Predicting influent BOD5 concentration in a WWTP | Full | File Link | Publication Link | 01/01/2022 | Junjie Zhu | junjiez@princeton.edu |
+| 05/05/2024 | Predicting influent BOD5 concentration in a WWTP | Full | File Link | Publication Link | 01/01/2018 | Junjie Zhu | junjiez@princeton.edu |
 
 
 
