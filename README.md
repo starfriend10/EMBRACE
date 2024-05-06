@@ -29,8 +29,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![BMP_WF](https://github.com/starfriend10/BestML/blob/main/BMP_workflow.jpg)
-
 To aid researchers in aligning their work with these best practices, we developed this checklist "Guidelines and Recommendations for Environmental Machine Learning" that aims to enhance understanding of the feasibility of proposed projects, the completeness of ongoing research, and the robustness of finished work. Before using the checklist, please read previously published and review work and viewpoint for specific terminologies and concepts.
 
 * A comprehensive review study was conducted to investigate common pitfalls and best ML practices in Environmental Science and Engineering (ESE) areas, please check: Zhu, J. J., Yang, M., & Ren, Z. J. (2023). Machine learning in environmental research: common pitfalls and best practices. Environmental Science & Technology, 57(46), 17671-17689. [https://doi.org/10.1021/acs.est.3c00026](https://doi.org/10.1021/acs.est.3c00026)
@@ -38,7 +36,7 @@ To aid researchers in aligning their work with these best practices, we develope
 
 The ultimate goal of introducing this checklist is to foster an active learning community and promote self-beneficial practices in environmental and sustainability ML research. We sincerely hope to foster a vibrant and reliable community for environmental ML research, potentially establishing standards that benefit the broader community by engaging more contributors.
 
-
+![CL_SS](https://github.com/starfriend10/BestML/blob/main/Checklists_snapshots.jpg)
 
 
 ## Getting Started
