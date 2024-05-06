@@ -1,14 +1,5 @@
 # Guidelines and Recommendations for Environmental Machine Learning
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
+<a name="readme-top"></a>
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -25,14 +16,13 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#interactions-and-contributing">Interactions and Contributing</a></li>
+    <li><a href="#exhibition">Exhibition</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-
 
 
 <!-- ABOUT THE PROJECT -->
@@ -50,13 +40,12 @@ The ultimate goal of introducing this checklist is to foster an active learning 
 
 
 
-<!-- GETTING STARTED -->
 ## Getting Started
 
 The checklist includes two major sections:
 * Section A is a quick self-check table that summarizes major, quantitative indicators. 
 * Section B is a more detailed, step-by-step checklist for ordinary supervised machine learning (ML) model development. 
-Section B also a preliminary feasibility assessment table. Please decide if you plan to 1) evaluate project feasibility, 2) perform a quick self-check, or 3) conduct a comprehensive stepwise checklist.
+Section B also a preliminary feasibility assessment table. Please decide if you plan to (1) evaluate project feasibility, (2) perform a quick self-check, or (3) conduct a comprehensive stepwise checklist.
 
 
 ### Prerequisites
@@ -82,23 +71,25 @@ _For more examples, please refer to the [Instructions](https://example.com)_
 * If you find this checklist useful, please help to spread it to build an engaging community. If the checklist helps your ML research, we appreciate your credit to our work. Please cite the viewpoint [xxxxxx](xxxxxx).
 * If you'd like to share your checklist data for your research/publication, please send your checklist to Dr. Jun-Jie Zhu (junjiez@princeton.edu) via email. Please name your checklist document "Finisheddate BMP Checklist versionnumber for Yourpublication" (e.g., "20240430 BMP Checklist 1.0 for Zhu et al. (2023)") and use an email title "Sharing BMP Checklist from Yourname" (e.g., "Sharing BMP Checklist from Junjie Zhu"). We will do a data completeness check and publish it if it is generally completed. It is worth noting that sharing your checklist is completely volunteer and you agree to release your document/information once you send your document to us. Therefore, we and other fellow researchers appreciate your sharing.
 * While sharing your checklist may also benefit your research impact (i.e., more colleagues will know your research), it is completely self QA/QC for reported data. From the prespective of other fellow researchers, when you learn from a checklist, the information accuracy of the checklist is completely based on the reporting researcher. While we encourage researchers to share their checklists, we are also advocate a responsible data reporting.
-* If you find addtional items are needed and useful, especially they are common and representaitve, please feel free to send email to Dr. Jun-Jie Zhu (junjiez@princeton.edu). It is possible that your suggestion will be accepted and/or acknowledged for further updating and development of the checklist.
+* If you find other items are needed and useful to add to the existing checklist, especially if they are common and representaitve, please feel free to send email to Dr. Jun-Jie Zhu (junjiez@princeton.edu). It is possible that your suggestion will be accepted or acknowledged for future development of the checklist.
+
+
+
+## Exhibition
 
 
 
 
-<!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 
-
-<!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Junjie Zhu - [@Jun_Jie_Zhu](https://twitter.com/Jun_Jie_Zhu) - junjiez@princeton.edu
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
@@ -106,7 +97,6 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 
 
-<!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 Reserved for future use
 
