@@ -21,7 +21,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#workflow">Workflow</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -43,10 +43,9 @@
 To aid researchers in aligning their work with these best practices, we developed this checklist that aims to enhance understanding of the feasibility of proposed projects, the completeness of ongoing research, and the robustness of finished work. Before using the checklist, please read previously published and review work and viewpoint for specific terminologies and concepts.
 
 * A comprehensive review study was conducted to investigate common pitfalls and best ML practices in Environmental Science and Engineering (ESE) areas, please check: Zhu, J. J., Yang, M., & Ren, Z. J. (2023). Machine learning in environmental research: common pitfalls and best practices. Environmental Science & Technology, 57(46), 17671-17689. [https://doi.org/10.1021/acs.est.3c00026](https://doi.org/10.1021/acs.est.3c00026)
-* A viewpoint summarizes the general usage of this checklist and advocate to better faciliate an engaged learning community in ESE, please check: Zhu, J. J., xxx, & Ren, Z. J. (2024). A Stepwise Checklist for Environmental Machine Learning: From Minimum to Best Practices. Environmental Science & Technology, xxxxxx. [xxxxxx](xxxxxx)
+* A viewpoint summarizes the general usage of this checklist and advocates to better faciliate an engaged learning community in ESE, please check: Zhu, J. J., xxx, & Ren, Z. J. (2024). A Stepwise Checklist for Environmental Machine Learning: From Minimum to Best Practices. Environmental Science & Technology, xxxxxx. [xxxxxx](xxxxxx)
 
-To help fellow researchers better develop robust ML models, we're preparing a comprehensive checklist. We plan to publish it as a paper as well as share the details here.
-
+The ultimate goal of introducing this checklist is to foster an active learning community and promote self-beneficial practices in environmental and sustainability ML research. We sincerely hope to foster a vibrant and reliable community for environmental ML research, potentially establishing standards that benefit the broader community by engaging more contributors.
 
 
 
@@ -54,50 +53,31 @@ To help fellow researchers better develop robust ML models, we're preparing a co
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+The checklist includes two major sections:
+•	Section A is a quick self-check table that summarizes major, quantitative indicators. 
+•	Section B is a more detailed, step-by-step checklist for ordinary supervised machine learning (ML) model development. 
+Section B also a preliminary feasibility assessment table. Please decide if you plan to 1) evaluate project feasibility, 2) perform a quick self-check, or 3) conduct a comprehensive stepwise checklist.
+
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Please read the review work and viewpoint before using the checklist. When using the checklist, you can refer to the instructions for additional information.
 
-### Installation
+### Workflow
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+The viewpoint includes a figure that illustrates the recommended workflow amd usage of the checklist. You may pinpoint where you are and start from that standpoint.
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 
 
-<!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+There are three checklist documents can be selected: A (only Section A), B (only Section B), and Full (both sections). The selection could faciliate a more flexible sharing of corresponding section(s). To share your checklist with others, please save the checklist as a read-only document. “File” >> “Print” >> Select “Microsoft print to PDF” in “Printer” >> Print >> Save it as a new PDF document.
+_For more examples, please refer to the [Instructions](https://example.com)_
 
 
 
-<!-- ROADMAP -->
-## Roadmap
+## Interactions
 
 - [ ] Feature 1
 - [ ] Feature 2
