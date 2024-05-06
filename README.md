@@ -78,10 +78,10 @@ _For more examples, please refer to the [Instructions](https://example.com)_
 
 ## Exhibition
 
-| Sharing Date | Application Domain | Checklist Type | Document Link | Publication DOI | Publication Date | Author Name | Author Contact | Additional Info. |
+| Sharing Date | Application Domain | Checklist Type | Document Link | Publication Link | Publication Date | Author Name | Author Contact | Additional Info. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 05/05/2024 | Predicting influent BOD5 concentration in a WWTP | Full | File Link | Publication Link | 01/01/2022 | Junjie Zhu | [Email](mailto:junjiez@princeton.edu) | None |
-| 05/05/2024 | Predicting influent BOD5 concentration in a WWTP | Full | File Link | Publication Link | 01/01/2018 | Junjie Zhu | [Email](mailto:junjiez@princeton.edu) | None |
+| 05/05/2024 | Predicting influent BOD5 concentration in a WWTP | Full | File Link | [DOI](https://doi.org/10.1016/j.watres.2022.118714) | 01/01/2022 | Junjie Zhu | [Email](mailto:junjiez@princeton.edu) | None |
+| 05/05/2024 | Predicting influent BOD5 concentration in a WWTP | Full | File Link | [DOI](https://doi.org/10.1016/j.watres.2017.10.053) | 01/01/2018 | Junjie Zhu | [Email](mailto:junjiez@princeton.edu) | None |
 
 
 
