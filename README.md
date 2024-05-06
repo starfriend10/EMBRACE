@@ -1,25 +1,4 @@
-# Best ML Practices
-A Stepwise Checklist for Environmental Researchers to  Conduct a Supervised Machine Learning Study
-
-A comprehensive review study was conducted to investigate ML practices in ESE areas, please check: [https://doi.org/10.1021/acs.est.3c00026](https://doi.org/10.1021/acs.est.3c00026)
-
-To help fellow researchers better develop robust ML models, we're preparing a comprehensive checklist. We plan to publish it as a paper as well as share the details here.
-
-# We're currently developing it, stay tuned!
-
-
-
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
+# Guidelines and Recommendations for Environmental Machine Learning
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -29,38 +8,6 @@ To help fellow researchers better develop robust ML models, we're preparing a co
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-<h3 align="center">project_title</h3>
-
-  <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
-  </p>
-</div>
-
 
 
 <!-- TABLE OF CONTENTS -->
@@ -69,9 +16,6 @@ To help fellow researchers better develop robust ML models, we're preparing a co
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -96,24 +40,14 @@ To help fellow researchers better develop robust ML models, we're preparing a co
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+To aid researchers in aligning their work with these best practices, we developed this checklist that aims to enhance understanding of the feasibility of proposed projects, the completeness of ongoing research, and the robustness of finished work. Before using the checklist, please read previously published and review work and viewpoint for specific terminologies and concepts.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+* A comprehensive review study was conducted to investigate common pitfalls and best ML practices in Environmental Science and Engineering (ESE) areas, please check: Zhu, J. J., Yang, M., & Ren, Z. J. (2023). Machine learning in environmental research: common pitfalls and best practices. Environmental Science & Technology, 57(46), 17671-17689. [https://doi.org/10.1021/acs.est.3c00026](https://doi.org/10.1021/acs.est.3c00026)
+* A viewpoint summarizes the general usage of this checklist and advocate to better faciliate an engaged learning community in ESE, please check: Zhu, J. J., xxx, & Ren, Z. J. (2024). A Stepwise Checklist for Environmental Machine Learning: From Minimum to Best Practices. Environmental Science & Technology, xxxxxx. [xxxxxx](xxxxxx)
+
+To help fellow researchers better develop robust ML models, we're preparing a comprehensive checklist. We plan to publish it as a paper as well as share the details here.
 
 
-
-### Built With
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
