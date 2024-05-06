@@ -56,7 +56,7 @@ Please read the review work and viewpoint before using the checklist. When using
 ### Workflow
 
 The viewpoint includes a figure that illustrates the recommended workflow amd usage of the checklist. You may pinpoint where you are and start from that standpoint.
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![BMP_WF](https://github.com/starfriend10/BestML/blob/main/BMP_workflow.jpg)
 
 
 
