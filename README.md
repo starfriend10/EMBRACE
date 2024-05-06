@@ -29,7 +29,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![BMP_WF](https://github.com/starfriend10/BestML/blob/main/BMP_workflow.jpg)
 
 To aid researchers in aligning their work with these best practices, we developed this checklist "Guidelines and Recommendations for Environmental Machine Learning" that aims to enhance understanding of the feasibility of proposed projects, the completeness of ongoing research, and the robustness of finished work. Before using the checklist, please read previously published and review work and viewpoint for specific terminologies and concepts.
 
