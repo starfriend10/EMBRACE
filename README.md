@@ -60,7 +60,7 @@ The viewpoint includes a figure that illustrates the recommended workflow amd us
 
 ## Usage
 
-There are three types of checklist documents can be selected: A (only Section A), B (only Section B), and Full (both sections). The selection could faciliate a more flexible sharing of corresponding section(s). To share your checklist with others, please save the checklist as a read-only document. “File” >> “Print” >> Select “Microsoft print to PDF” in “Printer” >> Print >> Save it as a new PDF document.
+The checklist contains Section A (quick self-check) and Section B (stepwise checklist), you can choose to fill A, B, or both sections, which could faciliate a more flexible sharing of corresponding information. To share your checklist with others, please save the checklist as a read-only document. “File” >> “Print” >> Select “Microsoft print to PDF” in “Printer” >> Print >> Save it as a new PDF document.
 
 _For more examples, please refer to the [Instructions](https://example.com)_
 
@@ -71,13 +71,13 @@ _For more examples, please refer to the [Instructions](https://example.com)_
 * If you find this checklist useful, please help to spread it to build an engaging community for environmental ML research. If the checklist helps your ML research, we appreciate your credit to our work. Please cite the viewpoint [xxxxxx](xxxxxx).
 * If you'd like to share your checklist data for your research or publication, please send your checklist to Dr. Junjie Zhu (junjiez@princeton.edu) via email. Please name your checklist document "Finisheddate BMP Checklist versionnumber for Yourpublication" (e.g., "20240430 BMP Checklist 1.0 for Zhu et al. (2023)") and use an email title "Sharing BMP Checklist from Yourname" (e.g., "Sharing BMP Checklist from Junjie Zhu"). To better classify the shared checklists, please also provide your research application domain (e.g., Predicting river water quality parameter, TSS concentration) in your email. We will do a data completeness inspection and publish it after confirming informativeness and scope. It is worth noting that sharing your checklist is completely volunteer and you agree to release your document/information once you send your document to us. Therefore, we and other fellow researchers appreciate your sharing. If you previously shared your checklist, but you'd like to update the existing document, please identify the document and explain the reason. We will revise it accordingly.
 * Sharing your checklist may enhance the impact of your research by increasing visibility among colleagues. Therefore, it is important to ensure the accuracy of reported data, which is completely a self-responsible QA/QC. From the prespective of other fellow researchers, the accuracy of the checklist information relies solely on the reporting researcher. While we encourage researchers to share their checklists, it is crucial to ensure responsible data reporting.
-* If you find other items need to be added or would be useful to the existing checklist, especially if they are common and representative in ESE areas, please feel free to send email to Dr. Junjie Zhu (junjiez@princeton.edu). It is likely that your suggestion will be accepted or acknowledged for future development of the checklist.
+* If you find other items need to be added or would be useful to the existing checklist, especially if they are common and representative in ESE areas, please feel free to send email to Dr. Junjie Zhu (junjiez@princeton.edu). It is likely that your suggestion will be accepted for future development of the checklist.
 
 
 
 ## Exhibition
 
-| Sharing Date | Application Domain | Checklist Type | Document Link | Publication Link | Publication Date | Author Name | Author Contact | Additional Info. |
+| Sharing Date | Application Domain | Checklist Content | Document Link | Publication Link | Publication Date | Author Name | Author Contact | Additional Info. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 05/05/2024 | Predicting river flow | Full | [File Download] | [DOI](https://doi.org/10.1016/j.watres.2022.118714) | 07/15/2022 | Junjie Zhu | [Email](mailto:junjiez@princeton.edu) | None |
 | 05/05/2024 | Predicting wastewater influent BOD5 concentrations | Full | [File Download] | [DOI](https://doi.org/10.1016/j.watres.2017.10.053) | 01/01/2018 | Junjie Zhu | [Email](mailto:junjiez@princeton.edu) | None |
@@ -94,7 +94,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Junjie Zhu - [@Jun_Jie_Zhu](https://twitter.com/Jun_Jie_Zhu) - junjiez@princeton.edu
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/starfriend10/BestML](https://github.com/starfriend10/BestML)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
