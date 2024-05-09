@@ -36,7 +36,7 @@ To aid researchers in aligning their work with these best practices, we develope
 
 The ultimate goal of introducing this checklist is to foster an active learning community and promote self-beneficial practices in environmental and sustainability ML research. We sincerely hope to foster a vibrant and reliable community for environmental ML research, potentially establishing standards that benefit the broader community by engaging more contributors.
 
-![CL_SS](https://github.com/starfriend10/BestML/blob/main/Checklists_snapshots.jpg)
+![CL_SS](https://github.com/starfriend10/BestML/blob/main/Figures/Checklists_snapshots.jpg)
 
 
 ## Getting Started
@@ -54,7 +54,7 @@ Please read the review work and viewpoint before using the checklist. When using
 ### Workflow
 
 The viewpoint includes a figure that illustrates the recommended workflow and usage of the checklist. You may pinpoint where you are and start from that standpoint.
-![BMP_WF](https://github.com/starfriend10/BestML/blob/main/BMP_workflow.jpg)
+![BMP_WF](https://github.com/starfriend10/BestML/blob/main/Figures/BMP_workflow.jpg)
 
 
 
