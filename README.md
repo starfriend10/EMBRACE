@@ -36,7 +36,7 @@ To aid researchers in aligning their work with these best practices, we develope
 
 The ultimate goal of introducing this checklist is to foster an active learning community and promote self-beneficial practices in environmental and sustainability ML research. We sincerely hope to foster a vibrant and reliable community for environmental ML research, potentially establishing standards that benefit the broader community by engaging more contributors.
 
-![CL_SS](https://github.com/starfriend10/BestML/blob/main/Figures/EMBRACE Checklist Snapshot.jpg)
+![CL_SS](https://github.com/starfriend10/BestML/blob/main/Figures/EMBRACE%20Checklist%20Snapshot.jpg)
 
 
 ## Getting Started
