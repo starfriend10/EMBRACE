@@ -32,7 +32,7 @@
 To aid researchers in aligning their work with these best practices, we developed this checklist "Guidelines and Recommendations for Environmental Machine Learning" that aims to enhance understanding of the feasibility of proposed projects, the completeness of ongoing research, and the robustness of finished work. Before using the checklist, please read previously published and review work and viewpoint for specific terminologies and concepts.
 
 * A comprehensive review study was conducted to investigate common pitfalls and best ML practices in Environmental Science and Engineering (ESE) areas, please check: Zhu, J. J., Yang, M., & Ren, Z. J. (2023). Machine learning in environmental research: common pitfalls and best practices. Environmental Science & Technology, 57(46), 17671-17689. [https://doi.org/10.1021/acs.est.3c00026](https://doi.org/10.1021/acs.est.3c00026)
-* A viewpoint summarizes the general usage of this checklist and advocates to better faciliate an engaged learning community in ESE, please check: Zhu, J. J., xxx, & Ren, Z. J. (2024). A Stepwise Checklist for Environmental Machine Learning: From Minimum to Best Practices. Environmental Science & Technology, xxxxxx. [xxxxxx](xxxxxx)
+* A viewpoint summarizes the general usage of this checklist and advocates to better faciliate an engaged learning community in ESE, please check: Zhu, J. J., Boehm, A. B., & Ren, Z. J. (2024). Environmental Machine-learning, Baseline Reporting, And Comprehensive Evaluation: The EMBRACE Checklist. Environmental Science & Technology, Submitted. [xxxxxx](xxxxxx)
 
 The ultimate goal of introducing this checklist is to foster an active learning community and promote self-beneficial practices in environmental and sustainability ML research. We sincerely hope to foster a vibrant and reliable community for environmental ML research, potentially establishing standards that benefit the broader community by engaging more contributors.
 
@@ -41,10 +41,16 @@ The ultimate goal of introducing this checklist is to foster an active learning 
 
 ## Getting Started
 
-The checklist includes two major sections:
-* Section A is a quick self-check table that summarizes major, quantitative indicators. 
-* Section B is a more detailed, step-by-step checklist for ordinary supervised machine learning (ML) model development. 
-Section B also a preliminary feasibility assessment table. Please decide if you plan to (1) evaluate project feasibility, (2) perform a quick self-check, or (3) conduct a comprehensive stepwise checklist.
+The checklist includes "project overview" and eight sections that follow a typical flowchart of ML model development:
+* Project overview helps to record the general information of your ongoing or finished study. You can also use it to track potential problems during your research.
+* Section 1 is a quick self-check table that summarizes major, quantitative indicators. 
+* Section 2 is a more detailed, step-by-step checklist for ordinary supervised machine learning (ML) model development.
+* Section 3
+* Section 4
+* Section 5
+* Section 6
+* Section 7
+* Section 8
 
 
 ### Prerequisites
