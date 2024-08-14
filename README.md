@@ -60,7 +60,7 @@ Please read the review work and viewpoint before using the checklist. When using
 ### Workflow
 
 The viewpoint includes a figure that illustrates the recommended workflow and usage of the checklist. You may pinpoint where you are and start from that standpoint.
-![BMP_WF](https://github.com/starfriend10/BestML/blob/main/Figures/EMBRACE%20Checklists_workflow.jpg)
+![BMP_WF](https://github.com/starfriend10/BestML/blob/main/Figures/EMBRACE%20Checklist_workflow.jpg)
 
 
 
