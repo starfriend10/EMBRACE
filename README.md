@@ -115,7 +115,7 @@ This work is licensed under a
 
 Junjie Zhu - [@Jun_Jie_Zhu](https://twitter.com/Jun_Jie_Zhu) - junjiez@princeton.edu
 
-Project Link: [https://github.com/starfriend10/BestML](https://github.com/starfriend10/BestML)
+Project Link: [https://github.com/starfriend10/EMBRACE](https://github.com/starfriend10/EMBRACE)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
