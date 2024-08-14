@@ -126,12 +126,10 @@ Project Link: [https://github.com/starfriend10/BestML](https://github.com/starfr
 
 **Alexandria B. Boehm**. Professor, CEE department, Stanford University. ***Project initialization main contributor***
 
-**Meiqi Yang**. Ph.D. Candidate, CEE department, Princeton University. ***Checklist verification***
-
 **Zhonghua Zheng**. Assistant Professor, EES department, The University of Manchester. ***Checklist verification***
 
 **Sina Borzooei**. IVL Swedish Environmental Research Institute. ***Checklist verification***
 
-
+**Meiqi Yang**. Ph.D. Candidate, CEE department, Princeton University. ***Checklist verification***
 
 
