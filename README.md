@@ -1,5 +1,5 @@
 # Under Construction...
-# Guidelines and Recommendations for Environmental Machine Learning
+# EMBRACE Checklist: Environmental Machine-learning, Baseline Reporting, And Comprehensive Evaluation 
 <a name="readme-top"></a>
 
 <!-- TABLE OF CONTENTS -->
@@ -29,12 +29,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-To aid researchers in aligning their work with these best practices, we developed this checklist "Guidelines and Recommendations for Environmental Machine Learning" that aims to enhance understanding of the feasibility of proposed projects, the completeness of ongoing research, and the robustness of finished work. Before using the checklist, please read previously published and review work and viewpoint for specific terminologies and concepts.
+To aid researchers in aligning their work with these best practices, we developed the EMBRACE Checklist that aims to enhance understanding of the feasibility of proposed projects, the completeness of ongoing research, and the robustness of finished work. Before adopting the checklist, please consult previously published review work and viewpoint for specific terminologies and concepts.
 
 * A comprehensive review study was conducted to investigate common pitfalls and best ML practices in Environmental Science and Engineering (ESE) areas, please check: Zhu, J. J., Yang, M., & Ren, Z. J. (2023). Machine learning in environmental research: common pitfalls and best practices. Environmental Science & Technology, 57(46), 17671-17689. [https://doi.org/10.1021/acs.est.3c00026](https://doi.org/10.1021/acs.est.3c00026)
 * A viewpoint summarizes the general usage of this checklist and advocates to better faciliate an engaged learning community in ESE, please check: Zhu, J. J., Boehm, A. B., & Ren, Z. J. (2024). Environmental Machine-learning, Baseline Reporting, And Comprehensive Evaluation: The EMBRACE Checklist. Environmental Science & Technology, Submitted. [xxxxxx](xxxxxx)
 
-The ultimate goal of introducing this checklist is to foster an active learning community and promote self-beneficial practices in environmental and sustainability ML research. We sincerely hope to foster a vibrant and reliable community for environmental ML research, potentially establishing standards that benefit the broader community by engaging more contributors.
+The ultimate goal of introducing this checklist is to foster an active learning community and promote self-beneficial practices in environmental ML research. We sincerely hope to foster a vibrant and reliable community for environmental ML research. I encourage interested researchers to join and contribute this effort, potentially establishing standards that benefit the broader community.
 
 ![CL_SS](https://github.com/starfriend10/BestML/blob/main/Figures/EMBRACE%20Checklist%20Snapshot.jpg)
 
@@ -43,14 +43,14 @@ The ultimate goal of introducing this checklist is to foster an active learning 
 
 The checklist includes "project overview" and eight sections that follow a typical flowchart of ML model development:
 * Project overview helps to record the general information of your ongoing or finished study. You can also use it to track potential problems during your research.
-* Section 1 is a quick self-check table that summarizes major, quantitative indicators. 
-* Section 2 is a more detailed, step-by-step checklist for ordinary supervised machine learning (ML) model development.
-* Section 3
-* Section 4
-* Section 5
-* Section 6
-* Section 7
-* Section 8
+* Section 1 includes reporting study objectives and feasibility assessment, aiding researchers in evaluating their available resources more effectively.
+* Section 2 covers reporting on data sources, including types, ethics, as well as details regarding the number and quality of data points.
+* Section 3 outlines reporting on data cleaning, enrichment, feature engineering, data splitting, and final data descriptions.
+* Section 4 focuses on reporting the supervised learning methods chosen and the overall modeling framework.
+* Section 5 highlights key aspects of model evaluation and hyperparameter optimization (HPO).
+* Section 6 emphasizes the need for a deeper understanding and reporting of model interpretability, explainability, and causality.
+* Section 7 focuses verifying data leakage management.
+* Section 8 encourages the sharing of data and code when possible.
 
 
 ### Prerequisites
