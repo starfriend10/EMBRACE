@@ -59,14 +59,20 @@ Please read the review work and viewpoint before using the checklist. When using
 
 ### Workflow
 
-The viewpoint includes a figure that illustrates the recommended workflow and usage of the checklist. You may pinpoint where you are and start from that standpoint.
-![BMP_WF](https://github.com/starfriend10/BestML/blob/main/Figures/EMBRACE%20Checklist_workflow.jpg)
+The checklist can be used at any stage of life cycle of your research, including project initialization, ongoing work, finished study, and educational learning.
+![BMP_WF](https://github.com/starfriend10/BestML/blob/main/Figures/EMBRACE%20Checklist_workflow.png)
 
 
 
 ## Usage
 
-The checklist contains Section A (quick self-check) and Section B (stepwise checklist), you can choose to fill A, B, or both sections, which could faciliate a more flexible sharing of corresponding information. To share your checklist with others, please save the checklist as a read-only document. “File” >> “Print” >> Select “Microsoft print to PDF” in “Printer” >> Print >> Save it as a new PDF document.
+The checklist is designed to easy check and fill. You may consult instructions for detailed explanations. To share your checklist with others, you can save the checklist as a read-only document. 
+* When using Microsoft Windows, please follow these step: “File” >> “Print” >> Select “Microsoft print to PDF” in “Printer” >> Print >> Save it as a new PDF document.
+
+
+* When using macOS, please follow these step:
+
+
 
 _For more examples, please refer to the [Instructions](https://example.com)_
 
