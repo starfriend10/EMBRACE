@@ -69,7 +69,6 @@ The checklist can be used at any stage of life cycle of your research, including
 The checklist is designed to easy check and fill. You may consult instructions for detailed explanations. To share your checklist with others, you can save the checklist as a read-only document. 
 * When using Microsoft Windows, please follow these step: “File” >> “Print” >> Select “Microsoft print to PDF” in “Printer” >> Print >> Save it as a new PDF document.
 ![CL_SS](https://github.com/starfriend10/BestML/blob/main/Figures/MSWIN%20SAVE.jpg)
-![BMP_WF](https://github.com/starfriend10/BestML/blob/main/Figures/MSWIN%20SAVE.jpg)
 
 * When using macOS, please follow these step:
 
@@ -82,9 +81,9 @@ _For more examples, please refer to the [Instructions](https://example.com)_
 ## Interactions and Contributing
 
 * If you find this checklist useful, please help to spread it to build an engaging community for environmental ML research. If the checklist helps your ML research, we appreciate your credit to our work. Please cite the viewpoint [xxxxxx](xxxxxx).
-* If you'd like to share your checklist data for your research or publication, please send your checklist to Dr. Junjie Zhu (junjiez@princeton.edu) via email. Please name your checklist document "Finisheddate BMP Checklist versionnumber for Yourpublication" (e.g., "20240430 BMP Checklist 1.0 for Zhu et al. (2023)") and use an email title "Sharing BMP Checklist from Yourname" (e.g., "Sharing BMP Checklist from Junjie Zhu"). To better classify the shared checklists, please also provide your research application domain (e.g., Predicting river water quality parameter, TSS concentration) in your email. We will do a data completeness inspection and publish it after confirming informativeness and scope. It is worth noting that sharing your checklist is completely volunteer and you agree to release your document/information once you send your document to us. Therefore, we and other fellow researchers appreciate your sharing. If you previously shared your checklist, but you'd like to update the existing document, please identify the document and explain the reason. We will revise it accordingly.
+* If you'd like to share your checklist data for your research or publication, please send your checklist to Dr. Junjie Zhu at Princeton University (junjiez@princeton.edu or ranmuweijie@gmail.com) via email. Please name your checklist document "Finished_date BMP Checklist version_number for Your_research" (e.g., "20240430 BMP Checklist 1.0 for Zhu et al. (2023)") and use an email title "Sharing BMP Checklist from Your_name" (e.g., "Sharing BMP Checklist from Junjie Zhu"). To better classify the shared checklists, please also provide your research application domain (e.g., Predicting river water quality parameter, TSS concentration) in your email. We will do a quick data completeness inspection and publish it ASAP. It is worth noting that sharing your checklist is completely volunteer per your agreement on releasing your research information once you send your document to us. Therefore, we and other fellow researchers appreciate your sharing. If you shared your checklist and would like to update the existing document, please identify the document and explain the reason. We will revise it accordingly.
 * Sharing your checklist may enhance the impact of your research by increasing visibility among colleagues. Therefore, it is important to ensure the accuracy of reported data, which is completely a self-responsible QA/QC. From the prespective of other fellow researchers, the accuracy of the checklist information relies solely on the reporting researcher. While we encourage researchers to share their checklists, it is crucial to ensure responsible data reporting.
-* If you find other items need to be added or would be useful to the existing checklist, especially if they are common and representative in ESE areas, please feel free to send email to Dr. Junjie Zhu (junjiez@princeton.edu). It is likely that your suggestion will be accepted for future development of the checklist.
+* If you find other imprtant items need to be added or there are any places need to be corrected, particularly if they are common and representative in ESE areas, please feel free to send email to Dr. Junjie Zhu (junjiez@princeton.edu or ranmuweijie@gmail.com). When pointing the item, please also provide your thoughts with supporting materials. It is likely that your suggestion will be accepted for future development of the checklist.
 
 
 
@@ -123,7 +122,12 @@ Project Link: [https://github.com/starfriend10/BestML](https://github.com/starfr
 
 
 ## Acknowledgments
-Reserved for future use
+Z. Jason Ren. Professor, CEE department, Princeton University. [Project initialization main contributor]
+Alexandria B. Boehm. Professor, CEE department, Stanford University. [Project initialization main contributor]
+Meiqi Yang. Ph.D. Candidate, CEE department, Princeton University. [Checklist verification]
+Zhonghua Zheng. Assistant Professor, EES department, The University of Manchester. [Checklist verification]
+Sina Borzooei. IVL Swedish Environmental Research Institute. [Checklist verification]
+
 
 
 
