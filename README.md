@@ -122,15 +122,15 @@ Project Link: [https://github.com/starfriend10/BestML](https://github.com/starfr
 
 
 ## Acknowledgments
-Z. Jason Ren. Professor, CEE department, Princeton University. [Project initialization main contributor]
+**Zhiyong Jason Ren**. Professor, CEE department, Princeton University. [Project initialization main contributor]
 
-Alexandria B. Boehm. Professor, CEE department, Stanford University. [Project initialization main contributor]
+**Alexandria B. Boehm**. Professor, CEE department, Stanford University. [Project initialization main contributor]
 
-Meiqi Yang. Ph.D. Candidate, CEE department, Princeton University. [Checklist verification]
+**Meiqi Yang**. Ph.D. Candidate, CEE department, Princeton University. [Checklist verification]
 
-Zhonghua Zheng. Assistant Professor, EES department, The University of Manchester. [Checklist verification]
+**Zhonghua Zheng**. Assistant Professor, EES department, The University of Manchester. [Checklist verification]
 
-Sina Borzooei. IVL Swedish Environmental Research Institute. [Checklist verification]
+**Sina Borzooei**. IVL Swedish Environmental Research Institute. [Checklist verification]
 
 
 
