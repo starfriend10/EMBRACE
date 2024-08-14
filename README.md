@@ -68,7 +68,8 @@ The checklist can be used at any stage of life cycle of your research, including
 
 The checklist is designed to easy check and fill. You may consult instructions for detailed explanations. To share your checklist with others, you can save the checklist as a read-only document. 
 * When using Microsoft Windows, please follow these step: “File” >> “Print” >> Select “Microsoft print to PDF” in “Printer” >> Print >> Save it as a new PDF document.
-
+![CL_SS](https://github.com/starfriend10/BestML/blob/main/Figures/MSWIN%20SAVE.jpg)
+![BMP_WF](https://github.com/starfriend10/BestML/blob/main/Figures/MSWIN%20SAVE.jpg)
 
 * When using macOS, please follow these step:
 
