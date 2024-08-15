@@ -57,6 +57,7 @@ The checklist includes "project overview" and eight sections that follow a typic
 
 Please read the review work and viewpoint before using the checklist. When using the checklist, you can refer to the instructions for additional information.
 
+
 ### Workflow
 
 The checklist can be used at any stage of life cycle of your research, including project initialization, ongoing work, finished study, and educational learning.
