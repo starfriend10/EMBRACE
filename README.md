@@ -60,9 +60,8 @@ Please read the review work and viewpoint before using the checklist. When using
 ### Workflow
 
 The checklist can be used at any stage of life cycle of your research, including project initialization, ongoing work, finished study, and educational learning.
-![BMP_WF](https://github.com/starfriend10/BestML/blob/main/Figures/EMBRACE%20Checklist_workflow.png){: width="50%"}
+<img src="https://github.com/starfriend10/BestML/blob/main/Figures/EMBRACE%20Checklist_workflow.png" width="1242" height="1018">
 
-<img src="https://github.com/starfriend10/BestML/blob/main/Figures/EMBRACE%20Checklist_workflow.png" width="100" height="100">
 
 ## Usage
 
