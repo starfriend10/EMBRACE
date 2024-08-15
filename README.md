@@ -72,6 +72,7 @@ The checklist is designed to easy check and fill. You may consult instructions f
 
 * When using macOS, please follow these step:
 
+Or check [this webpage](https://faq.maplesoft.com/s/article/Why-can-I-not-Print-to-PDF-on-my-Mac?language=en_US) for the same direction.
 
 
 _For more examples, please refer to the [Instructions](https://example.com)_
