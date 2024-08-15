@@ -82,7 +82,7 @@ To share your checklist with others, you can save the checklist as a read-only d
 Or check [this webpage](https://faq.maplesoft.com/s/article/Why-can-I-not-Print-to-PDF-on-my-Mac?language=en_US) for the same direction.
 
 
-_For more examples, please refer to the Exhibition table
+_For examples of common problems and less robust applications, please refer to the Instructions. For shared checklists from fellow researchers, please check the following Exhibition table.
 
 
 
