@@ -16,7 +16,15 @@
         <li><a href="#workflow">Workflow</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+
+    <li>
+      <a href="#usage">>Usage</a>
+      <ul>
+        <li><a href="#format-and-types">Format and Types</a></li>
+        <li><a href="#document-save">Document Save</a></li>
+      </ul>
+    </li>
+    
     <li><a href="#interactions-and-contributing">Interactions and Contributing</a></li>
     <li><a href="#exhibition">Exhibition</a></li>
     <li><a href="#license">License</a></li>
