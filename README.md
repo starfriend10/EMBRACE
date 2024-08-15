@@ -18,7 +18,7 @@
     </li>
 
     <li>
-      <a href="#usage">>Usage</a>
+      <a href="#usage">Usage</a>
       <ul>
         <li><a href="#format-and-types">Format and Types</a></li>
         <li><a href="#document-save">Document Save</a></li>
@@ -78,9 +78,11 @@ The checklist can be used at any stage of life cycle of your research, including
 The checklist is designed to easy check and fill. You may consult instructions for detailed explanations. 
 
 ### Format and Types
+
 <img src="https://github.com/starfriend10/BestML/blob/main/Figures/Info%20Format%20and%20Type.png" width="600">
 
 ### Document Save
+
 To share your checklist with others, you can save the checklist as a read-only document. 
 * When using Microsoft Windows, please follow these step: “File” >> “Print” >> Select “Microsoft print to PDF” in “Printer” >> Print >> Save it as a new PDF document.
 ![CL_SS](https://github.com/starfriend10/BestML/blob/main/Figures/MSWIN%20SAVE.jpg)
