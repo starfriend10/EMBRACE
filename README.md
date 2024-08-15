@@ -60,7 +60,7 @@ Please read the review work and viewpoint before using the checklist. When using
 ### Workflow
 
 The checklist can be used at any stage of life cycle of your research, including project initialization, ongoing work, finished study, and educational learning.
-![BMP_WF](https://github.com/starfriend10/BestML/blob/main/Figures/EMBRACE%20Checklist_workflow.png | width=500)
+![BMP_WF](https://github.com/starfriend10/BestML/blob/main/Figures/EMBRACE%20Checklist_workflow.png){: width="50%"}
 
 
 
@@ -84,7 +84,7 @@ _For more examples, please refer to the [Instructions](https://example.com)_
 * If you find this checklist useful, please help to spread it to build an engaging community for environmental ML research. If the checklist helps your ML research, we appreciate your credit to our work. Please cite the viewpoint [xxxxxx](xxxxxx).
 * If you'd like to share your checklist data for your research or publication, please send your checklist to Dr. Junjie Zhu at Princeton University (junjiez@princeton.edu or ranmuweijie@gmail.com) via email. Please name your checklist document "Finished_date BMP Checklist version_number for Your_research" (e.g., "20240430 BMP Checklist 1.0 for Zhu et al. (2023)") and use an email title "Sharing BMP Checklist from Your_name" (e.g., "Sharing BMP Checklist from Junjie Zhu"). To better classify the shared checklists, please also provide your research application domain (e.g., Predicting river water quality parameter, TSS concentration) in your email. We will do a quick data completeness inspection and publish it ASAP. It is worth noting that sharing your checklist is completely volunteer per your agreement on releasing your research information once you send your document to us. Therefore, we and other fellow researchers appreciate your sharing. If you shared your checklist and would like to update the existing document, please identify the document and explain the reason. We will revise it accordingly.
 * Sharing your checklist may enhance the impact of your research by increasing visibility among colleagues. Therefore, it is important to ensure the accuracy of reported data, which is completely a self-responsible QA/QC. From the prespective of other fellow researchers, the accuracy of the checklist information relies solely on the reporting researcher. While we encourage researchers to share their checklists, it is crucial to ensure responsible data reporting.
-* If you find other imprtant items need to be added or there are any places need to be corrected, particularly if they are common and representative in ESE areas, please feel free to send email to Dr. Junjie Zhu (junjiez@princeton.edu or ranmuweijie@gmail.com). When pointing the item, please also provide your thoughts with supporting materials. It is likely that your suggestion will be accepted for future development of the checklist.
+* If you find other imprtant items need to be added or there are any places need to be corrected, particularly if they are common and representative in ESE areas, please feel free to send email to Dr. Junjie Zhu. When pointing the item, please also provide your thoughts with supporting materials. It is likely that your suggestion will be accepted for future development of the checklist.
 
 
 
@@ -114,7 +114,7 @@ This work is licensed under a
 
 ## Contact
 
-Junjie Zhu - [@Jun_Jie_Zhu](https://twitter.com/Jun_Jie_Zhu) - junjiez@princeton.edu
+Junjie Zhu - [@Jun_Jie_Zhu](https://twitter.com/Jun_Jie_Zhu) - junjiez@princeton.edu or - ranmuweijie@gmail.com
 
 Project Link: [https://github.com/starfriend10/EMBRACE](https://github.com/starfriend10/EMBRACE)
 
