@@ -70,7 +70,7 @@ The checklist can be used at any stage of life cycle of your research, including
 The checklist is designed to easy check and fill. You may consult instructions for detailed explanations. 
 
 ### Format and Types
-<img src="https://github.com/starfriend10/BestML/blob/main/Figures/Info%20Format%20and%20Type.png" width="800">
+<img src="https://github.com/starfriend10/BestML/blob/main/Figures/Info%20Format%20and%20Type.png" width="600">
 
 ### Document Save
 To share your checklist with others, you can save the checklist as a read-only document. 
