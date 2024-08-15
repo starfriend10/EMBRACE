@@ -62,7 +62,7 @@ Please read the review work and viewpoint before using the checklist. When using
 The checklist can be used at any stage of life cycle of your research, including project initialization, ongoing work, finished study, and educational learning.
 ![BMP_WF](https://github.com/starfriend10/BestML/blob/main/Figures/EMBRACE%20Checklist_workflow.png){: width="50%"}
 
-
+<img src="[https://your-image-url.type](https://github.com/starfriend10/BestML/blob/main/Figures/EMBRACE%20Checklist_workflow.png)" width="100" height="100">
 
 ## Usage
 
@@ -114,7 +114,7 @@ This work is licensed under a
 
 ## Contact
 
-Junjie Zhu - [@Jun_Jie_Zhu](https://twitter.com/Jun_Jie_Zhu) - junjiez@princeton.edu or - ranmuweijie@gmail.com
+Junjie Zhu - [@Jun_Jie_Zhu](https://twitter.com/Jun_Jie_Zhu) - junjiez@princeton.edu or ranmuweijie@gmail.com
 
 Project Link: [https://github.com/starfriend10/EMBRACE](https://github.com/starfriend10/EMBRACE)
 
