@@ -34,7 +34,7 @@ To aid researchers in aligning their work with these best practices, we develope
 * A comprehensive review study was conducted to investigate common pitfalls and best ML practices in Environmental Science and Engineering (ESE) areas, please check: Zhu, J. J., Yang, M., & Ren, Z. J. (2023). Machine learning in environmental research: common pitfalls and best practices. Environmental Science & Technology, 57(46), 17671-17689. [https://doi.org/10.1021/acs.est.3c00026](https://doi.org/10.1021/acs.est.3c00026)
 * A viewpoint summarizes the general usage of this checklist and advocates to better faciliate an engaged learning community in ESE, please check: Zhu, J. J., Boehm, A. B., & Ren, Z. J. (2024). Environmental Machine-learning, Baseline Reporting, And Comprehensive Evaluation: The EMBRACE Checklist. Environmental Science & Technology, Submitted. [xxxxxx](xxxxxx)
 
-The ultimate goal of introducing this checklist is to foster an active learning community and promote self-beneficial practices in environmental ML research. We sincerely hope to foster a vibrant and reliable community for environmental ML research. I encourage interested researchers to join and contribute this effort, potentially establishing standards that benefit the broader community.
+The objective of introducing this checklist is to develop a ease-to-use tool to provide essential and important data reporting along your environmental ML work. The ultimate goal is to foster an active learning community and promote self-beneficial practices in environmental ML research. We sincerely hope to foster a vibrant and reliable community for environmental ML research. I encourage interested researchers to join and contribute this effort, potentially establishing standards that benefit the broader community.
 
 ![CL_SS](https://github.com/starfriend10/BestML/blob/main/Figures/EMBRACE%20Checklist%20Snapshot.jpg)
 
@@ -82,7 +82,8 @@ To share your checklist with others, you can save the checklist as a read-only d
 Or check [this webpage](https://faq.maplesoft.com/s/article/Why-can-I-not-Print-to-PDF-on-my-Mac?language=en_US) for the same direction.
 
 
-_For examples of common problems and less robust applications, please refer to the Instructions. For shared checklists from fellow researchers, please check the following Exhibition table.
+* For examples of common problems and less robust applications, please refer to the Instructions.
+* For shared checklists from fellow researchers, please check the following Exhibition table.
 
 
 
@@ -91,7 +92,7 @@ _For examples of common problems and less robust applications, please refer to t
 * If you find this checklist useful, please help to spread it to build an engaging community for environmental ML research. If the checklist helps your ML research, we appreciate your credit to our work. Please cite the viewpoint [xxxxxx](xxxxxx).
 * If you'd like to share your checklist data for your research or publication, please send your checklist to Dr. Junjie Zhu at Princeton University (junjiez@princeton.edu or ranmuweijie@gmail.com) via email. Please name your checklist document "Finished_date BMP Checklist version_number for Your_research" (e.g., "20240430 BMP Checklist 1.0 for Zhu et al. (2023)") and use an email title "Sharing BMP Checklist from Your_name" (e.g., "Sharing BMP Checklist from Junjie Zhu"). To better classify the shared checklists, please also provide your research application domain (e.g., Predicting river water quality parameter, TSS concentration) in your email. We will do a quick data completeness inspection and publish it ASAP. It is worth noting that sharing your checklist is completely volunteer per your agreement on releasing your research information once you send your document to us. Therefore, we and other fellow researchers appreciate your sharing. If you shared your checklist and would like to update the existing document, please identify the document and explain the reason. We will revise it accordingly.
 * Sharing your checklist may enhance the impact of your research by increasing visibility among colleagues. Therefore, it is important to ensure the accuracy of reported data, which is completely a self-responsible QA/QC. From the prespective of other fellow researchers, the accuracy of the checklist information relies solely on the reporting researcher. While we encourage researchers to share their checklists, it is crucial to ensure responsible data reporting.
-* If you find other important items need to be added or there are any places need to be corrected, particularly if they are common and representative in ESE areas, please feel free to let us know. One strightforward way is to post issues with sufficient descriptions. Alternatively, you can send an email to Dr. Junjie Zhu with your thoughts and supporting materials. It is likely that your suggestion will be accepted for future development of the checklist.
+* If you find other important items need to be added or there are any places need to be corrected, particularly if they are common and representative in ESE areas, please feel free to let us know. One strightforward way is to post issues with clear descriptions (if needs, pull request is also possible afterward). Alternatively, you can send an email to Dr. Junjie Zhu with your thoughts and supporting materials. It is likely that your suggestion will be accepted for future development of the checklist.
 
 
 
