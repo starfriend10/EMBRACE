@@ -67,7 +67,14 @@ The checklist can be used at any stage of life cycle of your research, including
 
 ## Usage
 
-The checklist is designed to easy check and fill. You may consult instructions for detailed explanations. To share your checklist with others, you can save the checklist as a read-only document. 
+The checklist is designed to easy check and fill. You may consult instructions for detailed explanations. 
+
+# Format and Types
+![CL_SS](https://github.com/starfriend10/BestML/blob/main/Figures/Info%20Format%20and%20Type.png)
+<img src="https://github.com/starfriend10/BestML/blob/main/Figures/Info%20Format%20and%20Type.png" width="800">
+
+# Document Save
+To share your checklist with others, you can save the checklist as a read-only document. 
 * When using Microsoft Windows, please follow these step: “File” >> “Print” >> Select “Microsoft print to PDF” in “Printer” >> Print >> Save it as a new PDF document.
 ![CL_SS](https://github.com/starfriend10/BestML/blob/main/Figures/MSWIN%20SAVE.jpg)
 
