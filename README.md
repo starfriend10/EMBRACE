@@ -71,7 +71,7 @@ The checklist is designed to easy check and fill. You may consult instructions f
 ![CL_SS](https://github.com/starfriend10/BestML/blob/main/Figures/MSWIN%20SAVE.jpg)
 
 * When using macOS, please follow these step:
-
+![CL_SS](https://github.com/starfriend10/BestML/blob/main/Figures/MACOS%20SAVE.jpg)
 Or check [this webpage](https://faq.maplesoft.com/s/article/Why-can-I-not-Print-to-PDF-on-my-Mac?language=en_US) for the same direction.
 
 
