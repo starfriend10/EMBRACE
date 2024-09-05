@@ -30,7 +30,7 @@
   </ol>
 
 
-
+<img src="https://github.com/starfriend10/EMBRACE/blob/main/Figures/Community-benefits.png" width="400">
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
