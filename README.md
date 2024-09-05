@@ -105,7 +105,7 @@ Or check [this webpage](https://faq.maplesoft.com/s/article/Why-can-I-not-Print-
 
 ## Exhibition
 
-| Sharing Date | Application Domain | Document Link | Publication Link | Publication Date | Author Name | Author Contact | Additional Info. |
+| Sharing Date | Application Domain | Checklist Sharing | Work Link | Publication Date | Author Name | Author Contact | Additional Info. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 09/04/2024 | Hydrology and Water Quantity | [File Download] | [DOI](https://doi.org/10.1016/j.watres.2022.118714) | 07/15/2022 | Junjie Zhu | [Email](mailto:junjiez@princeton.edu) | None |
 | 09/04/2024 | Water Quality and Treatment | [File Download](https://github.com/starfriend10/EMBRACE/blob/main/Checklist%20Sharing/20240904%20EMBRACE%20Checklist_Zhu%20et%20al.%20(2022a).pdf) | [DOI](https://doi.org/10.1021/acsestengg.1c00469) | 06/15/2022 | Junjie Zhu | [Email](mailto:junjiez@princeton.edu) | Metaheuristic-optimized deep learning |
