@@ -35,10 +35,11 @@
 ## About The Project
 
 To help researchers, readers, reviewers, and editors better communicate their envrionmental ML works, we developed the EMBRACE Checklist that aims to enhance understanding of the feasibility of proposed projects, the completeness of ongoing research, and the robustness of finished work. Before adopting the checklist, it is encouraged to consult previously published review work and viewpoint for specific terminologies and concepts.
-<img src="https://github.com/starfriend10/EMBRACE/blob/main/Figures/Community-benefits.png" width="400">
+
 * A comprehensive review study was conducted to investigate common pitfalls and best ML practices in Environmental Science and Engineering (ESE) areas, please check: Zhu, J.-J., Yang, M., & Ren, Z. J. (2023). Machine learning in environmental research: common pitfalls and best practices. Environmental Science & Technology, 57(46), 17671-17689. [https://doi.org/10.1021/acs.est.3c00026](https://doi.org/10.1021/acs.est.3c00026)
 * A viewpoint summarizes the general usage of this checklist and advocates to better faciliate an engaged learning community in ESE, please check: Zhu, J.-J., Boehm, A. B., & Ren, Z. J. (2024). Environmental Machine-learning, Baseline Reporting, And Comprehensive Evaluation: The EMBRACE Checklist. Environmental Science & Technology, Submitted.
 
+<img src="https://github.com/starfriend10/EMBRACE/blob/main/Figures/Community-benefits.png" width="600">
 The objective of introducing this checklist is to develop a ease-to-use tool to provide essential and important data reporting along your environmental ML work. The ultimate goal is to foster an active learning community and promote self-beneficial practices in environmental ML research. We sincerely hope to foster a vibrant and reliable community for environmental ML research. I encourage interested researchers to join and contribute this effort, potentially establishing standards that benefit the broader community.
 
 ![CL_SS](https://github.com/starfriend10/BestML/blob/main/Figures/EMBRACE%20Checklist%20Snapshot.jpg)
