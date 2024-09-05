@@ -40,7 +40,7 @@ To help researchers, readers, reviewers, and editors better communicate their en
 * A viewpoint summarizes the general usage of this checklist and advocates to better faciliate an engaged learning community in ESE, please check: Zhu, J.-J., Boehm, A. B., & Ren, Z. J. (2024). Environmental Machine-learning, Baseline Reporting, And Comprehensive Evaluation: The EMBRACE Checklist. Environmental Science & Technology, Submitted.
 
 <img src="https://github.com/starfriend10/EMBRACE/blob/main/Figures/Community-benefits.png" width="600">
-The objective of introducing this checklist is to develop a ease-to-use tool to provide essential and important data reporting along your environmental ML work. The ultimate goal is to foster an active learning community and promote self-beneficial practices in environmental ML research. We sincerely hope to foster a vibrant and reliable community for environmental ML research. I encourage interested researchers to join and contribute this effort, potentially establishing standards that benefit the broader community.
+The objective of introducing this checklist is to develop a ease-to-use tool to provide essential and important data reporting along your environmental ML work. It only costs you 5-10 minutes to complete the checklist. The ultimate goal is to foster an active learning community and promote self-beneficial practices in environmental ML research. We sincerely hope to foster a vibrant and reliable community for environmental ML research. I encourage interested researchers to join and contribute this effort, potentially establishing standards that benefit the broader community.
 
 ![CL_SS](https://github.com/starfriend10/BestML/blob/main/Figures/EMBRACE%20Checklist%20Snapshot.jpg)
 
