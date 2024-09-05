@@ -57,7 +57,7 @@ The checklist includes "project overview" and eight sections that follow a typic
 * Section 6 emphasizes the need for a deeper understanding and reporting of model interpretability, explainability, and causality.
 * Section 7 focuses verifying data leakage management.
 * Section 8 encourages the sharing of data and code when possible.
-<img src="https://github.com/starfriend10/EMBRACE/blob/main/Figures/EMBRACE%20Checklist%20Main%20Structure.png" width="600">
+<img src="https://github.com/starfriend10/EMBRACE/blob/main/Figures/EMBRACE%20Checklist%20Main%20Structure.png" width="800">
 
 ### Prerequisites
 
