@@ -1,4 +1,3 @@
-# Under Construction...
 # EMBRACE Checklist: Environmental Machine-learning, Baseline Reporting, And Comprehensive Evaluation 
 <a name="readme-top"></a>
 
@@ -108,8 +107,9 @@ Or check [this webpage](https://faq.maplesoft.com/s/article/Why-can-I-not-Print-
 
 | Sharing Date | Application Domain | Document Link | Publication Link | Publication Date | Author Name | Author Contact | Additional Info. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 05/05/2024 | Predicting river flow | [File Download] | [DOI](https://doi.org/10.1016/j.watres.2022.118714) | 07/15/2022 | Junjie Zhu | [Email](mailto:junjiez@princeton.edu) | None |
-| 05/05/2024 | Predicting wastewater influent BOD5 concentrations | [File Download] | [DOI](https://doi.org/10.1016/j.watres.2017.10.053) | 01/01/2018 | Junjie Zhu | [Email](mailto:junjiez@princeton.edu) | None |
+| 09/04/2024 | Hydrology and Water Quantity | [File Download] | [DOI](https://doi.org/10.1016/j.watres.2022.118714) | 07/15/2022 | Junjie Zhu | [Email](mailto:junjiez@princeton.edu) | None |
+| 09/04/2024 | Water Quality and Treatment | [File Download] | [DOI](https://doi.org/10.1021/acsestengg.1c00469) | 06/15/2022 | Junjie Zhu | [Email](mailto:junjiez@princeton.edu) | None |
+| 09/04/2024 | Water Quality and Treatment | [File Download] | [DOI](https://doi.org/10.1016/j.watres.2017.10.053) | 01/01/2018 | Junjie Zhu | [Email](mailto:junjiez@princeton.edu) | None |
 
 
 
