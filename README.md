@@ -81,7 +81,7 @@ The checklist is designed to easy check and fill. You may consult instructions f
 
 ### Document Save
 
-To share your checklist with others, you can save the checklist as a read-only document. 
+We encourage you to direct share your checklists, so lengthy sentences or contents can be read by interaction. However, you can follow the instructions below if you perfer to save the checklist as a read-only document. 
 * When using Microsoft Windows, please follow these step: “File” >> “Print” >> Select “Microsoft print to PDF” in “Printer” >> Print >> Save it as a new PDF document.
 ![CL_SS](https://github.com/starfriend10/BestML/blob/main/Figures/MSWIN%20SAVE.jpg)
 
