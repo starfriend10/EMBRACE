@@ -23,7 +23,7 @@
       </ul>
     </li>
     <li><a href="#interactions-and-contributing">Interactions and Contributing</a></li>
-    <li><a href="#exhibition">Exhibition</a></li>
+    <li><a href="#exhibition-and-Examples">Exhibition and Examples</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -34,7 +34,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-To help researchers, readers, reviewers, and editors better communicate their envrionmental ML works, we developed the EMBRACE Checklist that aims to enhance understanding of the feasibility of proposed projects, the completeness of ongoing research, and the robustness of finished work. Before adopting the checklist, it is encouraged to consult previously published review work and viewpoint for specific terminologies and concepts.
+To help researchers, readers, reviewers, and editors better communicate envrionmental ML works, we developed the EMBRACE Checklist that aims to enhance understanding of the feasibility of proposed projects, the completeness of ongoing research, and the robustness of finished work. Before adopting the checklist, it is encouraged to consult previously published review work and viewpoint for specific terminologies and concepts.
 
 * A comprehensive review study was conducted to investigate common pitfalls and best ML practices in Environmental Science and Engineering (ESE) areas, please check: Zhu, J.-J., Yang, M., & Ren, Z. J. (2023). Machine learning in environmental research: common pitfalls and best practices. Environmental Science & Technology, 57(46), 17671-17689. [https://doi.org/10.1021/acs.est.3c00026](https://doi.org/10.1021/acs.est.3c00026)
 * A viewpoint summarizes the general usage of this checklist and advocates to better faciliate an engaged learning community in ESE, please check: Zhu, J.-J., Boehm, A. B., & Ren, Z. J. (2024). Environmental Machine-learning, Baseline Reporting, And Comprehensive Evaluation: The EMBRACE Checklist. Environmental Science & Technology, Submitted.
@@ -105,7 +105,7 @@ Or check [this webpage](https://faq.maplesoft.com/s/article/Why-can-I-not-Print-
 
 
 
-## Exhibition
+## Exhibition and Examples
 
 | Sharing Date | Application Domain | Checklist Sharing | Paper Link | Publication Date | Author Name | Author Contact | Additional Info. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
