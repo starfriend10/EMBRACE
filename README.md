@@ -134,7 +134,7 @@ This work is licensed under a
 
 ## Contact
 
-Junjie Zhu - [@Jun_Jie_Zhu](https://twitter.com/Jun_Jie_Zhu) - junjiez@princeton.edu or ranmuweijie@gmail.com
+**Junjie Zhu** - [@Jun_Jie_Zhu](https://twitter.com/Jun_Jie_Zhu) - junjiez@princeton.edu or ranmuweijie@gmail.com
 
 Project Link: [https://github.com/starfriend10/EMBRACE](https://github.com/starfriend10/EMBRACE)
 
