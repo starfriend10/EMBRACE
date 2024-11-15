@@ -69,7 +69,8 @@ The checklist includes "project overview" and eight sections that follow a typic
 
 ### Prerequisites
 
-Please read the review work and viewpoint before using the checklist. When using the checklist, you can refer to the instructions for additional information.
+> [!TIP]
+> Please read the review work and viewpoint before using the checklist. When using the checklist, you can refer to the instructions for additional information.
 
 
 ### Workflow
@@ -81,7 +82,8 @@ The checklist can be used at any stage of life cycle of your research, including
 
 ## Usage
 
-The checklist is designed to easy check and fill. You may consult instructions for detailed explanations. 
+> [!IMPORTANT]
+> The checklist is designed to easy check and fill. You may consult instructions for detailed explanations. 
 
 ### Format and Types
 
