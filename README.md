@@ -44,7 +44,7 @@ To help researchers, readers, reviewers, and editors better communicate envrionm
 <img src="https://github.com/starfriend10/EMBRACE/blob/main/Figures/Community-benefits.png" width="600">
 
 ### Community-Owned Tool
-The objective of introducing this [Checklist](https://github.com/starfriend10/EMBRACE/blob/main/Checklist%20and%20Instructions/EMBRACE%20Checklist%20version%201.0.pdf) is to develop a ease-to-use tool to provide essential and important data reporting along your environmental ML work. It only costs you 5-10 minutes to complete the checklist. The ultimate goal is to foster an active learning community and promote self-beneficial practices in environmental ML research. We encourage interested researchers to join and contribute this effort, potentially establishing standards that benefit the broader community.
+The objective of introducing this [Checklist](https://github.com/starfriend10/EMBRACE/blob/main/Checklist%20and%20Instructions/EMBRACE%20Checklist%20version%201.0.pdf) is to develop a ease-to-use tool to provide essential and important data reporting along your environmental ML work. It only costs you 5-10 minutes to complete the 3-page checklist. The ultimate goal is to foster an active learning community and promote self-beneficial practices in environmental ML research. We encourage interested researchers to join and contribute this effort, potentially establishing standards that benefit the broader community.
 - [x] For <b>Researchers</b>: The Checklist helps guidance on essential steps and requirements to develop ML models for environmental research. Clear data reporting streamlines the publication process and enhances the impact of the research work.
 - [x] For <b>Editors</b>: The Checklist (submitted by researchers along with their manuscripts) helps editors screen the work based on the scope and quality.
 - [x] For <b>Reviewers</b>: The Checklist (along with manuscript) provides clear information which minimizes potential confusion during the review process, allowing reviewers to better understand the study’s novelty and contributions.
@@ -70,7 +70,7 @@ The checklist includes "project overview" and eight sections that follow a typic
 ### Prerequisites
 
 > [!TIP]
-> Please read the [review work](https://doi.org/10.1021/acs.est.3c00026) and [viewpoint](https://doi.org/10.1021/acs.est.4c09611) before using the checklist. When using the [Checklist](https://github.com/starfriend10/EMBRACE/blob/main/Checklist%20and%20Instructions/EMBRACE%20Checklist%20version%201.0.pdf), you can refer to the [Instructions](https://github.com/starfriend10/EMBRACE/blob/main/Checklist%20and%20Instructions/Checklist%20instructions%20(10-2024).pdf) for additional information.
+> We strongly recommend to read the [review work](https://doi.org/10.1021/acs.est.3c00026) and [viewpoint](https://doi.org/10.1021/acs.est.4c09611) before using the checklist. When using the checklist, you can refer to the [Instructions](https://github.com/starfriend10/EMBRACE/blob/main/Checklist%20and%20Instructions/Checklist%20instructions%20(10-2024).pdf) for additional information.
 
 
 ### Workflow
