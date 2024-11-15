@@ -39,8 +39,15 @@ To help researchers, readers, reviewers, and editors better communicate envrionm
 * A comprehensive review study was conducted to investigate common pitfalls and best ML practices in Environmental Science and Engineering (ESE) areas, please check: Zhu, J.-J., Yang, M., & Ren, Z. J. (2023). Machine learning in environmental research: common pitfalls and best practices. *Environmental Science & Technology*, 57(46), 17671-17689. [https://doi.org/10.1021/acs.est.3c00026](https://doi.org/10.1021/acs.est.3c00026)
 * A viewpoint summarizes the general usage of this checklist and advocates to better faciliate an engaged learning community in ESE, please check: Zhu, J.-J., Boehm, A. B., & Ren, Z. J. (2024). Environmental Machine-learning, Baseline Reporting, And Comprehensive Evaluation: The EMBRACE Checklist. *Environmental Science & Technology*, [https://doi.org/10.1021/acs.est.4c09611](https://doi.org/10.1021/acs.est.4c09611).
 
+
 <img src="https://github.com/starfriend10/EMBRACE/blob/main/Figures/Community-benefits.png" width="600">
+
+### Community-Owned Tool
 The objective of introducing this checklist is to develop a ease-to-use tool to provide essential and important data reporting along your environmental ML work. It only costs you 5-10 minutes to complete the checklist. The ultimate goal is to foster an active learning community and promote self-beneficial practices in environmental ML research. We encourage interested researchers to join and contribute this effort, potentially establishing standards that benefit the broader community.
+* For Researchers: The Checklist helps guidance on essential steps and requirements to develop ML models for environmental research. Clear data reporting streamlines the publication process and enhances the impact of the research work.
+* For Editors: The Checklist (submitted by researchers along with their manuscripts) helps editors screen the work based on the scope and quality.
+* For Reviewers: The Checklist (along with manuscript) provides clear information which minimizes potential confusion during the review process, allowing reviewers to better understand the study’s novelty and contributions.
+* For Readers: The Checklist (shared by researchers) contains key information of the research work, making it easier to follow, understand, and utilize the data, methodology, and findings of the research.
 
 ![CL_SS](https://github.com/starfriend10/BestML/blob/main/Figures/EMBRACE%20Checklist%20Snapshot.jpg)
 
