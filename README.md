@@ -34,7 +34,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-To help researchers, readers, reviewers, and editors better communicate envrionmental ML works, we developed the [EMBRACE Checklist](https://github.com/starfriend10/EMBRACE/blob/main/Checklist%20and%20Instructions/EMBRACE%20Checklist%20version%201.0.pdf) that aims to enhance understanding of the feasibility of proposed projects, the completeness of ongoing research, and the robustness of finished work. Before adopting the checklist, it is encouraged to consult previously published review work and viewpoint for specific terminologies and concepts.
+To help researchers, readers, reviewers, and editors better communicate envrionmental ML research work, we developed the [EMBRACE Checklist](https://github.com/starfriend10/EMBRACE/blob/main/Checklist%20and%20Instructions/EMBRACE%20Checklist%20version%201.0.pdf) that aims to enhance understanding of the feasibility of proposed projects, the completeness of ongoing research, and the robustness of finished work. Before adopting the checklist, it is encouraged to consult previously published review work and viewpoint for specific terminologies and concepts.
 
 > [!NOTE]
 > * A comprehensive review study was conducted to investigate common pitfalls and best ML practices in Environmental Science and Engineering (ESE) areas, please check: Zhu, J.-J., Yang, M., & Ren, Z. J. (2023). Machine learning in environmental research: common pitfalls and best practices. *Environmental Science & Technology*, 57(46), 17671-17689. [https://doi.org/10.1021/acs.est.3c00026](https://doi.org/10.1021/acs.est.3c00026)
