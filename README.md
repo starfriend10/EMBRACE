@@ -49,6 +49,7 @@ The objective of introducing this [Checklist](https://github.com/starfriend10/EM
 - [x] For <b>Reviewers</b>: The Checklist (along with manuscript) provides clear information which minimizes potential confusion during the review process, allowing reviewers to better understand the study’s novelty and contributions.
 - [x] For <b>Readers</b>: The Checklist (shared by researchers) contains key information of the research work, making it easier to follow, understand, and utilize the data, methodology, and findings of the research.
 <br>
+
 ![CL_SS](https://github.com/starfriend10/BestML/blob/main/Figures/EMBRACE%20Checklist%20Snapshot.jpg)
 
 
