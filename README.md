@@ -45,9 +45,9 @@ To help researchers, readers, reviewers, and editors better communicate envrionm
 ### Community-Owned Tool
 The objective of introducing this [Checklist](https://github.com/starfriend10/EMBRACE/blob/main/Checklist%20and%20Instructions/EMBRACE%20Checklist%20version%201.0.pdf) is to develop a ease-to-use tool to provide essential and important data reporting along your environmental ML work. It only costs you 5-10 minutes to complete the 3-page checklist. The ultimate goal is to foster an active learning community and promote self-beneficial practices in environmental ML research. We encourage interested researchers to join and contribute this effort, potentially establishing standards that benefit the broader community.
 - [x] For <b>Researchers</b>: The Checklist helps guidance on essential steps and requirements to develop ML models for environmental research. Clear data reporting streamlines the publication process and enhances the impact of the research work.
-- [x] For <b>Editors</b>: The Checklist (submitted by researchers along with their manuscripts) helps editors screen the work based on the scope and quality.
-- [x] For <b>Reviewers</b>: The Checklist (along with manuscript) provides clear information which minimizes potential confusion during the review process, allowing reviewers to better understand the study’s novelty and contributions.
 - [x] For <b>Readers</b>: The Checklist (shared by researchers) contains key information of the research work, making it easier to follow, understand, and utilize the data, methodology, and findings of the research.
+- [x] For <b>Reviewers</b>: The Checklist (along with manuscript) provides clear information which minimizes potential confusion during the review process, allowing reviewers to better understand the study’s novelty and contributions.
+- [x] For <b>Editors</b>: The Checklist (submitted by researchers along with their manuscripts) helps editors screen the work based on the scope and quality.
 <br>
 
 ![CL_SS](https://github.com/starfriend10/BestML/blob/main/Figures/EMBRACE%20Checklist%20Snapshot.jpg)
