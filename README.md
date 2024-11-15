@@ -34,7 +34,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-To help researchers, readers, reviewers, and editors better communicate envrionmental ML works, we developed the EMBRACE Checklist that aims to enhance understanding of the feasibility of proposed projects, the completeness of ongoing research, and the robustness of finished work. Before adopting the checklist, it is encouraged to consult previously published review work and viewpoint for specific terminologies and concepts.
+To help researchers, readers, reviewers, and editors better communicate envrionmental ML works, we developed the [EMBRACE Checklist](https://github.com/starfriend10/EMBRACE/blob/main/Checklist%20and%20Instructions/EMBRACE%20Checklist%20version%201.0.pdf) that aims to enhance understanding of the feasibility of proposed projects, the completeness of ongoing research, and the robustness of finished work. Before adopting the checklist, it is encouraged to consult previously published review work and viewpoint for specific terminologies and concepts.
 
 > [!NOTE]
 > * A comprehensive review study was conducted to investigate common pitfalls and best ML practices in Environmental Science and Engineering (ESE) areas, please check: Zhu, J.-J., Yang, M., & Ren, Z. J. (2023). Machine learning in environmental research: common pitfalls and best practices. *Environmental Science & Technology*, 57(46), 17671-17689. [https://doi.org/10.1021/acs.est.3c00026](https://doi.org/10.1021/acs.est.3c00026)
@@ -44,7 +44,7 @@ To help researchers, readers, reviewers, and editors better communicate envrionm
 <img src="https://github.com/starfriend10/EMBRACE/blob/main/Figures/Community-benefits.png" width="600">
 
 ### Community-Owned Tool
-The objective of introducing this checklist is to develop a ease-to-use tool to provide essential and important data reporting along your environmental ML work. It only costs you 5-10 minutes to complete the checklist. The ultimate goal is to foster an active learning community and promote self-beneficial practices in environmental ML research. We encourage interested researchers to join and contribute this effort, potentially establishing standards that benefit the broader community.
+The objective of introducing this [Checklist](https://github.com/starfriend10/EMBRACE/blob/main/Checklist%20and%20Instructions/EMBRACE%20Checklist%20version%201.0.pdf) is to develop a ease-to-use tool to provide essential and important data reporting along your environmental ML work. It only costs you 5-10 minutes to complete the checklist. The ultimate goal is to foster an active learning community and promote self-beneficial practices in environmental ML research. We encourage interested researchers to join and contribute this effort, potentially establishing standards that benefit the broader community.
 - [x] For <b>Researchers</b>: The Checklist helps guidance on essential steps and requirements to develop ML models for environmental research. Clear data reporting streamlines the publication process and enhances the impact of the research work.
 - [x] For <b>Editors</b>: The Checklist (submitted by researchers along with their manuscripts) helps editors screen the work based on the scope and quality.
 - [x] For <b>Reviewers</b>: The Checklist (along with manuscript) provides clear information which minimizes potential confusion during the review process, allowing reviewers to better understand the study’s novelty and contributions.
@@ -70,7 +70,7 @@ The checklist includes "project overview" and eight sections that follow a typic
 ### Prerequisites
 
 > [!TIP]
-> Please read the review work and viewpoint before using the checklist. When using the checklist, you can refer to the instructions for additional information.
+> Please read the [review work](https://doi.org/10.1021/acs.est.3c00026) and [viewpoint](https://doi.org/10.1021/acs.est.4c09611) before using the checklist. When using the [Checklist](https://github.com/starfriend10/EMBRACE/blob/main/Checklist%20and%20Instructions/EMBRACE%20Checklist%20version%201.0.pdf), you can refer to the [Instructions](https://github.com/starfriend10/EMBRACE/blob/main/Checklist%20and%20Instructions/Checklist%20instructions%20(10-2024).pdf) for additional information.
 
 
 ### Workflow
@@ -83,7 +83,7 @@ The checklist can be used at any stage of life cycle of your research, including
 ## Usage
 
 > [!IMPORTANT]
-> The checklist is designed to easy check and fill. You may consult instructions for detailed explanations. 
+> The checklist is designed to easy check and fill. You may consult [Instructions](https://github.com/starfriend10/EMBRACE/blob/main/Checklist%20and%20Instructions/Checklist%20instructions%20(10-2024).pdf) for detailed explanations. 
 
 ### Format and Types
 
@@ -100,7 +100,7 @@ We encourage you to share your checklist directly, so lengthy sentences or conte
 Or check [this webpage](https://faq.maplesoft.com/s/article/Why-can-I-not-Print-to-PDF-on-my-Mac?language=en_US) for the same direction.
 
 
-* For examples of common problems and less robust applications, please refer to the Instructions.
+* For examples of common problems and less robust applications, please refer to the [Instructions](https://github.com/starfriend10/EMBRACE/blob/main/Checklist%20and%20Instructions/Checklist%20instructions%20(10-2024).pdf).
 * For shared checklists from fellow researchers, please check the following Exhibition table.
 
 
@@ -119,11 +119,11 @@ Or check [this webpage](https://faq.maplesoft.com/s/article/Why-can-I-not-Print-
 
 | Sharing Date | Application Domain | Checklist Sharing | Paper Link | Publication Date | Author Name | Author Contact | Additional Info. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 09/05/2024 | Resource Recovery | [PURL](https://github.com/starfriend10/EMBRACE/blob/main/Checklist%20Sharing/20240905%20EMBRACE%20Checklist_Yang%20et%20al.%20(2024).pdf) | [DOI](https://doi.org/10.1021/acs.est.4c00060) | 05/13/2024 | Meiqi Yang | [Email](mailto:meiqiy@princeton.edu) | Material discovery with DLM |
-| 09/05/2024 | Resource Recovery | [PURL](https://github.com/starfriend10/EMBRACE/blob/main/Checklist%20Sharing/20240905%20EMBRACE%20Checklist_Yang%20et%20al.%20(2023).pdf) | [DOI](https://doi.org/10.1021/acs.est.2c06382) | 03/27/2023 | Meiqi Yang; Junjie Zhu | [Email](mailto:meiqiy@princeton.edu) | Separation predictions with rigorous data leakage management |
-| 09/04/2024 | Hydrology and Water Quantity | [PURL](https://github.com/starfriend10/EMBRACE/blob/main/Checklist%20Sharing/20240904%20EMBRACE%20Checklist_Zhu%20et%20al.%20(2022b).pdf) | [DOI](https://doi.org/10.1016/j.watres.2022.118714) | 07/15/2022 | Junjie Zhu | [Email](mailto:junjiez@princeton.edu) | Probabilistic predictions with 95% PI |
-| 09/04/2024 | Water Quality and Treatment | [PURL](https://github.com/starfriend10/EMBRACE/blob/main/Checklist%20Sharing/20240904%20EMBRACE%20Checklist_Zhu%20et%20al.%20(2022a).pdf) | [DOI](https://doi.org/10.1021/acsestengg.1c00469) | 06/15/2022 | Junjie Zhu | [Email](mailto:junjiez@princeton.edu) | Metaheuristic-optimized deep learning |
-| 09/04/2024 | Water Quality and Treatment | [PURL](https://github.com/starfriend10/EMBRACE/blob/main/Checklist%20Sharing/20240904%20EMBRACE%20Checklist_Zhu%20et%20al.%20(2018).pdf) | [DOI](https://doi.org/10.1016/j.watres.2017.10.053) | 01/01/2018 | Junjie Zhu | [Email](mailto:junjiez@princeton.edu) | Multi-objective optimized data-driven |
+| 09/05/2024 | Resource Recovery | [PURL](https://github.com/starfriend10/EMBRACE/blob/main/Research%20Sharing/20240905%20EMBRACE%20Checklist_Yang%20et%20al.%20(2024).pdf) | [DOI](https://doi.org/10.1021/acs.est.4c00060) | 05/13/2024 | Meiqi Yang | [Email](mailto:meiqiy@princeton.edu) | Material discovery with DLM |
+| 09/05/2024 | Resource Recovery | [PURL](https://github.com/starfriend10/EMBRACE/blob/main/Research%20Sharing/20240905%20EMBRACE%20Checklist_Yang%20et%20al.%20(2023).pdf) | [DOI](https://doi.org/10.1021/acs.est.2c06382) | 03/27/2023 | Meiqi Yang; Junjie Zhu | [Email](mailto:meiqiy@princeton.edu) | Separation predictions with rigorous data leakage management |
+| 09/04/2024 | Hydrology and Water Quantity | [PURL](https://github.com/starfriend10/EMBRACE/blob/main/Research%20Sharing/20240904%20EMBRACE%20Checklist_Zhu%20et%20al.%20(2022b).pdf) | [DOI](https://doi.org/10.1016/j.watres.2022.118714) | 07/15/2022 | Junjie Zhu | [Email](mailto:junjiez@princeton.edu) | Probabilistic predictions with 95% PI |
+| 09/04/2024 | Water Quality and Treatment | [PURL](https://github.com/starfriend10/EMBRACE/blob/main/Research%20Sharing/20240904%20EMBRACE%20Checklist_Zhu%20et%20al.%20(2022a).pdf) | [DOI](https://doi.org/10.1021/acsestengg.1c00469) | 06/15/2022 | Junjie Zhu | [Email](mailto:junjiez@princeton.edu) | Metaheuristic-optimized deep learning |
+| 09/04/2024 | Water Quality and Treatment | [PURL](https://github.com/starfriend10/EMBRACE/blob/main/Research%20Sharing/20240904%20EMBRACE%20Checklist_Zhu%20et%20al.%20(2018).pdf) | [DOI](https://doi.org/10.1016/j.watres.2017.10.053) | 01/01/2018 | Junjie Zhu | [Email](mailto:junjiez@princeton.edu) | Multi-objective optimized data-driven |
 
 
 
