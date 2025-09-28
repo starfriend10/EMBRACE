@@ -161,7 +161,7 @@ Project Link: [https://github.com/starfriend10/EMBRACE](https://github.com/starf
 
 **Zhonghua Zheng**. Assistant Professor, EES department, The University of Manchester. ***Checklist in-house testing***
 
-**Sina Borzooei**. IVL Swedish Environmental Research Institute. ***Checklist in-house testing***
+[**Sina Borzooei**](https://github.com/SinaBorzooeiIVL). IVL Swedish Environmental Research Institute. ***Checklist in-house testing***
 
 
 
