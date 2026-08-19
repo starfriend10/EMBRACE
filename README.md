@@ -130,7 +130,7 @@ Or check [this webpage](https://faq.maplesoft.com/s/article/Why-can-I-not-Print-
 
 ## Studies Citing/Using the EMBRACE Checklist
 
-Google Scholar currently indexes 46 records citing the EMBRACE Checklist. After checking the linked records and consolidating duplicate/indexing artifacts, these records correspond to **43 unique studies**. The list below uses the actual study title and first author and is ordered with more recent studies first. The five most recent studies are shown below; expand the section to view the full list.
+The list uses the actual study title and first author and is ordered with more recent studies first based on Google Scholar. 
 
 | Year | First Author | Study | Source |
 | --- | --- | --- | --- |
@@ -139,7 +139,11 @@ Google Scholar currently indexes 46 records citing the EMBRACE Checklist. After 
 | 2026 | JM Xu | [Machine learning-integrated multi-objective application and optimization framework for sulfur-based reactive filler towards nutrient removal](https://www.sciencedirect.com/science/article/pii/S0043135426009954) | Water Research |
 | 2026 | J Chen | [From Meteorological Perturbation Mechanisms to Sewer Methane Forecasting: A Causal and Machine Learning Approach](https://doi.org/10.1021/acsestengg.5c00822) | ACS ES&T Engineering |
 | 2026 | S Xu | [Enhanced modeling of chlorine-organic reaction kinetics to assess the fate of environmental chemicals in disinfection process](https://www.sciencedirect.com/science/article/pii/S0043135426000382) | Water Research |
-
+| 2026 | A Arab | [Physics-informed neural network surrogate for reactive nitrate transport in groundwater](https://www.sciencedirect.com/science/article/pii/S0309170826001016) | Advances in Water Resources |
+| 2026 | Z Liao | [Molecular-level insights into oxidant sensitivity of algal extracellular organic matter and disinfection by-product formation during chlorination/ozonation](https://www.sciencedirect.com/science/article/pii/S0043135426003374) | Water Research |
+| 2026 | H Ran | [Effects of feature selection on predictive performance and interpretability in data-driven modeling: A case study of membrane flux prediction after Fenton pretreatment](https://www.sciencedirect.com/science/article/pii/S1383586626005708) | Separation and Purification Technology |
+| 2026 | R Starostka | [Emerging themes, opportunities, and future directions for modeling decentralized wastewater resource recovery and treatment systems](https://iwaponline.com/wst/article/doi/10.2166/wst.2026.229/111060) | Water Science and Technology |
+| 2026 | HY Cai | [A mechanistic machine learning framework to decode reverse osmosis membrane retention mechanism for neutral low-molecular-weight organics](https://www.sciencedirect.com/science/article/pii/S0959652626008206) | Journal of Cleaner Production |
 <details>
 <summary><b>View all 43 studies</b></summary>
 
@@ -147,11 +151,6 @@ Google Scholar currently indexes 46 records citing the EMBRACE Checklist. After 
 
 | Year | First Author | Study | Source |
 | --- | --- | --- | --- |
-| 2026 | A Arab | [Physics-informed neural network surrogate for reactive nitrate transport in groundwater](https://www.sciencedirect.com/science/article/pii/S0309170826001016) | Advances in Water Resources |
-| 2026 | Z Liao | [Molecular-level insights into oxidant sensitivity of algal extracellular organic matter and disinfection by-product formation during chlorination/ozonation](https://www.sciencedirect.com/science/article/pii/S0043135426003374) | Water Research |
-| 2026 | H Ran | [Effects of feature selection on predictive performance and interpretability in data-driven modeling: A case study of membrane flux prediction after Fenton pretreatment](https://www.sciencedirect.com/science/article/pii/S1383586626005708) | Separation and Purification Technology |
-| 2026 | R Starostka | [Emerging themes, opportunities, and future directions for modeling decentralized wastewater resource recovery and treatment systems](https://iwaponline.com/wst/article/doi/10.2166/wst.2026.229/111060) | Water Science and Technology |
-| 2026 | HY Cai | [A mechanistic machine learning framework to decode reverse osmosis membrane retention mechanism for neutral low-molecular-weight organics](https://www.sciencedirect.com/science/article/pii/S0959652626008206) | Journal of Cleaner Production |
 | 2026 | C Xiao | [Impact of corrosive groundwater on water infrastructure and public health in the contiguous United States](https://www.sciencedirect.com/science/article/pii/S0043135426004124) | Water Research |
 | 2026 | JX Lou | [Elucidating response effects of anammox-based nitrogen removal processes for municipal wastewater using big data analysis and automated machine learning](https://www.nature.com/articles/s41598-026-57033-z) | Scientific Reports |
 | 2026 | M Jiang | [Deciphering the multivariable interactions of MOFs in heavy metal adsorption via explainable machine learning for sustainable and resource-efficient adsorbent development](https://www.sciencedirect.com/science/article/pii/S0959652626014630) | Journal of Cleaner Production |
