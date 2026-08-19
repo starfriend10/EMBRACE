@@ -24,6 +24,7 @@
     </li>
     <li><a href="#interactions-and-contributing">Interactions and Contributing</a></li>
     <li><a href="#exhibition-and-Examples">Exhibition and Examples</a></li>
+    <li><a href="#studies-citingusing-the-embrace-checklist">Studies Citing/Using the EMBRACE Checklist</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -109,7 +110,7 @@ Or check [this webpage](https://faq.maplesoft.com/s/article/Why-can-I-not-Print-
 
 * If you find this checklist useful, please help to spread it to build an engaging community for environmental ML research. If the checklist helps your ML research, we appreciate your credit to our work. Please cite the viewpoint.
 * The best approach to share your checklist is to use it as supporting information when submitting your manuscript, so researchers (yourself), editors, reviewers, and readers can all benefit from the transparent and complete data reporting.
-* If you'd like to share your checklist data alone without used as supporting information or because of other situations (e.g., old studies/papers), we are also happy to share them. Please send your checklist to Dr. Junjie Zhu at Princeton University (junjiez@princeton.edu or ranmuweijie@gmail.com) via email. Please name your checklist document "Finished_date EMBRACE Checklist version_number for Your_research" (e.g., "20240901 EMBRACE Checklist 1.0 for Zhu et al. (2023)") and send an email entitled "Sharing EMBRACE Checklist from Your_name" (e.g., "Sharing EMBRACE Checklist from Junjie Zhu"). To better classify the shared checklists, please also provide your research application domain (e.g., Water Quality and Treatment) in your email and your contact email (if other than your sending email address). We will do a quick data completeness inspection and share it ASAP. It is worth noting that sharing your checklist is completely volunteer per your agreement on releasing your research information once you send your document to us. Therefore, we and other fellow researchers appreciate your sharing. If you shared your checklist and would like to update the existing document, please identify the document and explain the reason. We will revise it accordingly.
+* **Optional checklist sharing:** Researchers who would like to share a completed EMBRACE Checklist, including for previously published studies, are welcome to contact Dr. Junjie Zhu at Princeton University (junjiez@princeton.edu or ranmuweijie@gmail.com). With your permission, selected checklists may be shared as examples in this repository.
 * Sharing your checklist may enhance the impact of your research by increasing visibility among colleagues. Therefore, it is important to ensure the accuracy of reported data, which is a self-responsible QA/QC. From the prespective of other fellow researchers, the accuracy of the checklist information relies solely on the reporting researcher. While we encourage researchers to share their checklists, it is crucial to ensure responsible data reporting.
 * If you find other important items need to be added or there are any places need to be corrected, particularly if they are common and representative in ESE areas, please feel free to let us know. One strightforward way is to send an email to Dr. Junjie Zhu with your thoughts and supporting materials. Alternatively, you can post issues with clear descriptions. It is likely that your suggestion will be accepted for future development of the checklist.
 
@@ -126,6 +127,66 @@ Or check [this webpage](https://faq.maplesoft.com/s/article/Why-can-I-not-Print-
 | 09/04/2024 | Water Quality and Treatment | [PURL](https://github.com/starfriend10/EMBRACE/blob/main/Research%20Sharing/20240904%20EMBRACE%20Checklist_Zhu%20et%20al.%20(2018).pdf) | [DOI](https://doi.org/10.1016/j.watres.2017.10.053) | 01/01/2018 | Junjie Zhu | [Email](mailto:junjiez@princeton.edu) | Multi-objective optimized data-driven |
 
 
+
+## Studies Citing/Using the EMBRACE Checklist
+
+Google Scholar currently indexes 46 records citing the EMBRACE Checklist. After checking the linked records and consolidating duplicate/indexing artifacts, these records correspond to **43 unique studies**. The list below uses the actual study title and first author and is ordered with more recent studies first. The five most recent studies are shown below; expand the section to view the full list.
+
+| Year | First Author | Study | Source |
+| --- | --- | --- | --- |
+| 2026 | Y Lai | [Intelligent fouling monitoring in membrane-based wastewater treatment](https://www.nature.com/articles/s41893-026-01766-2) | Nature Sustainability |
+| 2026 | Y Cao | [Data-driven assessment of nitrogen and phosphorus buffering capacity across 460 Chinese watersheds: Spatial patterns, drivers, and future projections](https://www.sciencedirect.com/science/article/pii/S0043135426001065) | Water Research |
+| 2026 | JM Xu | [Machine learning-integrated multi-objective application and optimization framework for sulfur-based reactive filler towards nutrient removal](https://www.sciencedirect.com/science/article/pii/S0043135426009954) | Water Research |
+| 2026 | J Chen | [From Meteorological Perturbation Mechanisms to Sewer Methane Forecasting: A Causal and Machine Learning Approach](https://doi.org/10.1021/acsestengg.5c00822) | ACS ES&T Engineering |
+| 2026 | S Xu | [Enhanced modeling of chlorine-organic reaction kinetics to assess the fate of environmental chemicals in disinfection process](https://www.sciencedirect.com/science/article/pii/S0043135426000382) | Water Research |
+
+<details>
+<summary><b>View all 43 studies</b></summary>
+
+<br>
+
+| Year | First Author | Study | Source |
+| --- | --- | --- | --- |
+| 2026 | A Arab | [Physics-informed neural network surrogate for reactive nitrate transport in groundwater](https://www.sciencedirect.com/science/article/pii/S0309170826001016) | Advances in Water Resources |
+| 2026 | Z Liao | [Molecular-level insights into oxidant sensitivity of algal extracellular organic matter and disinfection by-product formation during chlorination/ozonation](https://www.sciencedirect.com/science/article/pii/S0043135426003374) | Water Research |
+| 2026 | H Ran | [Effects of feature selection on predictive performance and interpretability in data-driven modeling: A case study of membrane flux prediction after Fenton pretreatment](https://www.sciencedirect.com/science/article/pii/S1383586626005708) | Separation and Purification Technology |
+| 2026 | R Starostka | [Emerging themes, opportunities, and future directions for modeling decentralized wastewater resource recovery and treatment systems](https://iwaponline.com/wst/article/doi/10.2166/wst.2026.229/111060) | Water Science and Technology |
+| 2026 | HY Cai | [A mechanistic machine learning framework to decode reverse osmosis membrane retention mechanism for neutral low-molecular-weight organics](https://www.sciencedirect.com/science/article/pii/S0959652626008206) | Journal of Cleaner Production |
+| 2026 | C Xiao | [Impact of corrosive groundwater on water infrastructure and public health in the contiguous United States](https://www.sciencedirect.com/science/article/pii/S0043135426004124) | Water Research |
+| 2026 | JX Lou | [Elucidating response effects of anammox-based nitrogen removal processes for municipal wastewater using big data analysis and automated machine learning](https://www.nature.com/articles/s41598-026-57033-z) | Scientific Reports |
+| 2026 | M Jiang | [Deciphering the multivariable interactions of MOFs in heavy metal adsorption via explainable machine learning for sustainable and resource-efficient adsorbent development](https://www.sciencedirect.com/science/article/pii/S0959652626014630) | Journal of Cleaner Production |
+| 2026 | W Chen | [Toward explainable and generalizable data-driven modeling in real wastewater treatment plants: Utilizing bidimensional interpretable deep learning and cross-scenario transfer learning](https://www.sciencedirect.com/science/article/pii/S0301479726014970) | Journal of Environmental Management |
+| 2026 | E Akor | [Machine learning prediction and calibration of cellulose-based solid-phase extraction performance for pharmaceuticals across aqueous matrices](https://pubs.rsc.org/ra/article-abstract/16/14/12475/1231065) | RSC Advances |
+| 2026 | J Lei | [Predicting aerobic granular sludge structural instability: An intelligent early-warning framework integrating convolutional neural network and fluorescence fingerprint features](https://www.sciencedirect.com/science/article/pii/S030147972600575X) | Journal of Environmental Management |
+| 2026 | L Zhang | [A systematic review of forward simulation-based methods for point-source water pollution localization](https://www.sciencedirect.com/science/article/pii/S016977222600210X) | Journal of Contaminant Hydrology |
+| 2026 | Y Lu | [Molecular Representation and Closed-Loop Validation for Toxicity Assessment of Organic Compounds in Ambient Air PM2. 5](https://doi.org/10.1021/acs.est.5c17667) | Environmental Science & Technology |
+| 2026 | Y Yu | [An enzyme-level benchmark based on environmental bacterial laccases for predicting contaminant fate in water](https://www.biorxiv.org/content/10.64898/2026.01.27.701970.abstract) | bioRxiv |
+| 2026 | F Guo | [Data-Driven Modeling and Optimization of a Modified Ludzack–Ettinger Process Using ML and DL for Effluent Quality Prediction](https://www.mdpi.com/2073-4441/18/7/863) | Water |
+| 2026 | AB Boehm | [Essential Elements of Manuscripts Describing New Methods for Measuring Environmental Contaminants at Environmental Science & Technology and Environmental Science & Technology Letters](https://doi.org/10.1021/acs.estlett.6c00742) | Environmental Science & Technology Letters |
+| 2026 | CC Chang | [Stability-Aware Machine Learning Enables Reliable Identification of Water Pollution Drivers for Environmental Decision-Making](https://doi.org/10.1021/acsestwater.6c00535) | ACS ES&T Water |
+| 2025 | C Ma | [Treatment options of nitrogen heterocyclic compounds in industrial wastewater: From fundamental technologies to energy valorization applications and future process design strategies](https://www.sciencedirect.com/science/article/pii/S0043135425004889) | Water Research |
+| 2025 | SL Rich | [FAIR and effective communication of data on chemical contaminant biotransformation in the environment](https://pubs.acs.org/estlcu/article-abstract/12/11/1462/3677894) | Environmental Science & Technology Letters |
+| 2025 | H Ding | [A multi-model ensemble for advanced prediction of reverse osmosis performance in full-scale zero-liquid discharge systems](https://pubs.acs.org/doi/abs/10.1021/acs.est.5c06257) | Environmental Science & Technology |
+| 2025 | F Li | [AI-Enhanced SERS with Probe Combinations for Concurrent Identification and Quantification of Coexisting Metal Ions in Water](https://pubs.acs.org/doi/abs/10.1021/acs.est.5c07025) | Environmental Science & Technology |
+| 2025 | X Liu | [Identifying key taxa for algal blooms in a large aquatic ecosystem through machine learning](https://pubs.acs.org/esthag/article/59/38/20499/3812632) | Environmental Science & Technology |
+| 2025 | Y Cheng | [Unraveling electronic structure modulation mechanism in cobalt spinel Fenton-like catalysis by integrating density functional theory and machine learning](https://www.sciencedirect.com/science/article/pii/S0043135425018184) | Water Research |
+| 2025 | H Elnakar | [Automated machine learning and SHAP-based interpretation of PFOA removal via electrochemical oxidation](https://www.sciencedirect.com/science/article/pii/S1944398625006149) | Desalination and Water Treatment |
+| 2025 | C Ren | [Machine learning-driven inverse design for low-carbon and cost-effective organic acid leaching of spent ternary lithium batteries](https://pubs.acs.org/doi/abs/10.1021/acs.est.5c08681) | Environmental Science & Technology |
+| 2025 | YW Kim | [A modular deep learning surrogate model for simulating harmful algal blooms in complex process-based systems](https://www.sciencedirect.com/science/article/pii/S0043135425009674) | Water Research |
+| 2025 | Z Liu | [An artificial intelligence modeling framework based on microbial community structure prediction enhances the pollutant removal efficiency of the algae-bacteria granular sludge system](https://www.sciencedirect.com/science/article/pii/S0301479725026246) | Journal of Environmental Management |
+| 2025 | A Elahi | [Machine Learning, Generalization, and Transfer Learning for Predicting the Exceedance of Fecal Indicator Bacteria Thresholds at Beaches](https://pmc.ncbi.nlm.nih.gov/articles/PMC12573789/) | Environmental Science & Technology |
+| 2025 | G Yu | [Machine learning predicting sintering temperature for ceramsite production from multiple solid wastes](https://www.sciencedirect.com/science/article/pii/S0956053X25003149) | Waste Management |
+| 2025 | C Schür | [On the comparability between studies in predictive ecotoxicology](https://doi.org/10.1016/j.comtox.2025.100367) | Computational Toxicology |
+| 2025 | N da Luz | [Look Out Below: Predicting Wastewater Infrastructure Service Type at the Land Parcel Scale](https://doi.org/10.1021/acsestengg.5c00637) | ACS ES&T Engineering |
+| 2025 | M Yu | [Ethical frameworks for data-driven environmental health studies in the AI era](https://pmc.ncbi.nlm.nih.gov/articles/PMC12090006/) | Environment & Health |
+| 2025 | Y Pei | [Deep Learning-Based Screening of Zebrafish Embryo Malformations for Assessing the Developmental Toxicity and EC50 Estimation of Disinfection By-Products](https://www.sciencedirect.com/science/article/pii/S2772416625003717) | Journal of Hazardous Materials Advances |
+| 2025 | X Yang | [Development of microbial technology and industry in environmental engineering](https://doi.org/10.15302/J-SSCAE-2025.04.017) | Strategic Study of CAE |
+| 2025 | G Yu | [Development of an interpretable QSAR model for predicting acute oral toxicity of organophosphates in rats based on GA-MLR algorithm](https://www.tandfonline.com/doi/abs/10.1080/03601234.2025.2489259?casa_token=pcO1Gdzh27QAAAAA:GduV7Z2FvHbWH8VvgXj-y35-wxa2_vnDMD05DhheZwfmwlznMUHOaV-b8nMGL753WL-EPvIwmvGfkw) | Journal of Environmental Science and Health, Part A |
+| 2025 | ZA Zhang | [Introduce multivariate two-dimensional information to establish a data-driven volume estimation model for complex microplastic fibers](https://www.sciencedirect.com/science/article/pii/S0048969725016560) | Science of the Total Environment |
+| 2025 | HL Madsen | [Monitoring Disinfection in Onsite Wastewater Treatment Systems with a Combination of Online Sensors and Water Sample Analysis for Early Treatment Failure Detection](https://scholarspace.manoa.hawaii.edu/items/12ba542f-9658-4b48-8985-8fa8474d1aa1) | Master's thesis, University of Hawaiʻi at Mānoa |
+| 2025 | ND Ngo | [Quantitative Reasoning Evaluation of Large Language Model Performance in Indoor Air Quality Engineering](https://doi.org/10.2139/ssrn.5966375) | SSRN |
+
+</details>
 
 ## License
 
