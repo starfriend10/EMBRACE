@@ -4,37 +4,9 @@
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li><a href="#studies-citingusing-the-embrace-checklist">Studies Citing/Using the EMBRACE Checklist</a></li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#workflow">Workflow</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#usage">Usage</a>
-      <ul>
-        <li><a href="#format-and-types">Format and Types</a></li>
-        <li><a href="#document-save">Document Save</a></li>
-      </ul>
-    </li>
-    <li><a href="#interactions-and-contributing">Interactions and Contributing</a></li>
-    <li><a href="#exhibition-and-Examples">Exhibition and Examples</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-
-
-## Table of Contents
 
 1. [About The Project](#about-the-project)
-2. [Studies Citing/Using the EMBRACE Checklist](#studies-citingusing-the-embrace-checklist)
+2. [Studies Using/Citing the EMBRACE Checklist](#studies-usingciting-the-embrace-checklist)
 3. [Getting Started](#getting-started)
 
 <details>
