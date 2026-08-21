@@ -55,7 +55,7 @@ The objective of introducing this [Checklist](https://github.com/starfriend10/EM
 
 ## Studies Using/Citing the EMBRACE Checklist
 
-The EMBRACE Checklist has been cited or used across a growing range of environmental research applications. Studies with publicly shared completed checklists are highlighted below, with all other citing/using studies available for expansion. Let us know if you used/shared checklist but not in the list below.
+The EMBRACE Checklist has been cited or used across a growing range of environmental research applications. Studies with publicly shared completed checklists are highlighted below, with all other citing/using studies available for expansion. If you have used or shared the EMBRACE Checklist and your study is not yet listed, we would be happy to hear from you.
 
 | Year | First Author | Study | Source | Checklist |
 | --- | --- | --- | --- | --- |
