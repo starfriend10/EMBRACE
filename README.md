@@ -31,6 +31,31 @@
   </ol>
 
 
+## Table of Contents
+
+1. [About The Project](#about-the-project)
+2. [Studies Citing/Using the EMBRACE Checklist](#studies-citingusing-the-embrace-checklist)
+3. [Getting Started](#getting-started)
+
+<details>
+<summary><b>Show full Table of Contents</b></summary>
+
+<br>
+
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Workflow](#workflow)
+- [Usage](#usage)
+  - [Format and Types](#format-and-types)
+  - [Document Save](#document-save)
+- [Interactions and Contributing](#interactions-and-contributing)
+- [Exhibition and Examples](#exhibition-and-examples)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgments](#acknowledgments)
+
+</details>
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
