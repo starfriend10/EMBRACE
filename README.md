@@ -213,9 +213,9 @@ Project Link: [https://github.com/starfriend10/EMBRACE](https://github.com/starf
 
 **Alexandria B. Boehm**. Professor, CEE department, Stanford University. ***Project initialization main contributor***
 
-[**Meiqi Yang**](https://github.com/meiqiyang53). Ph.D. Candidate, CEE department, Princeton University. ***Checklist in-house testing and verification***
+[**Meiqi Yang**](https://github.com/meiqiyang53). Ph.D. Candidate, CEE department, Princeton University. (Current: Assistant Professor at The University of British Columbia) ***Checklist in-house testing and verification***
 
-**Zhonghua Zheng**. Assistant Professor, EES department, The University of Manchester. ***Checklist in-house testing***
+**Zhonghua Zheng**. Assistant Professor, EES department, The University of Manchester. (Current: Associate Professor) ***Checklist in-house testing***
 
 [**Sina Borzooei**](https://github.com/SinaBorzooeiIVL). IVL Swedish Environmental Research Institute. ***Checklist in-house testing***
 
