@@ -53,7 +53,7 @@ The objective of introducing this [Checklist](https://github.com/starfriend10/EM
 ![CL_SS](https://github.com/starfriend10/BestML/blob/main/Figures/EMBRACE%20Checklist%20Snapshot.jpg)
 
 
-## Studies Citing/Using the EMBRACE Checklist
+## Studies Using/Citing the EMBRACE Checklist
 
 The EMBRACE Checklist has been cited or used across a growing range of environmental research applications. Studies with publicly shared completed checklists are highlighted below, with all other citing/using studies available for expansion. Let us know if you used/shared checklist but not in the list below.
 
